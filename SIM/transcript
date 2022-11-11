@@ -1,0 +1,6371 @@
+# Compile of ws2812b_controller.v failed with 5 errors.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 1 failed with 5 errors.
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.neopixel_TB
+# vsim work.neopixel_TB 
+# Start time: 19:40:30 on Nov 10,2022
+# Loading sv_std.std
+# Loading work.neopixel_TB
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Error opening C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/(vlog-13069) C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/pixel TB.sv
+# Path name 'C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/(vlog-13069) C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/pixel TB.sv' doesn't exist.
+# Error opening C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/(vlog-13069) C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/pixel TB.sv
+# Path name 'C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/(vlog-13069) C:/Users/Kelly/Dropbox/Verilog/APIO Repo/neopix/SIM/pixel TB.sv' doesn't exist.
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+add wave -position end  sim:/neopixel_TB/clk
+add wave -position end  sim:/neopixel_TB/R
+add wave -position end  sim:/neopixel_TB/G
+add wave -position end  sim:/neopixel_TB/B
+add wave -position end  sim:/neopixel_TB/out
+add wave -position end  sim:/neopixel_TB/CLK
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+run
+run
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+# Warning in wave window restart: (vish-4014) No objects found matching '/neopixel_TB/CLK'. 
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+add wave -position end  sim:/neopixel_TB/neo/bit_pointer
+add wave -position end  sim:/neopixel_TB/neo/pixel_pointer
+add wave -position end  sim:/neopixel_TB/neo/timer
+restart -f
+# Closing VCD file "waves.vcd"
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful with warnings.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+run
+run
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+run
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmit 1 63
+# transmit 1 189
+# transmit 1 315
+# transmit 1 441
+# transmit 1 567
+# transmit 1 693
+# transmit 1 819
+# transmit 1 945
+# transmit 1 1071
+# transmit 1 1197
+# transmit 1 1323
+# transmit 1 1449
+# transmit 1 1575
+# transmit 1 1701
+# transmit 1 1827
+# transmit 1 1953
+# transmit 1 2079
+# transmit 1 2205
+# transmit 1 2331
+# transmit 1 2457
+# transmit 0 2583
+# transmit 0 2709
+# transmit 0 2835
+# transmit 0 2961
+# transmit 0 3087
+# transmit 0 3213
+# transmit 0 3339
+# transmit 0 3465
+# transmit 0 3591
+# transmit 0 3717
+# transmit 0 3843
+# transmit 0 3969
+# transmit 0 4095
+# transmit 0 4221
+# transmit 0 4347
+# transmit 0 4473
+# transmit 0 4599
+# transmit 0 4725
+# transmit 0 4851
+# transmit 0 4977
+# transmit 1 5103
+# transmit 1 5229
+# transmit 1 5355
+# transmit 1 5481
+# transmit 1 5607
+# transmit 1 5733
+# transmit 1 5859
+# transmit 1 5985
+# transmit 1 6111
+# transmit 1 6237
+# transmit 1 6363
+# transmit 1 6489
+# transmit 1 6615
+# transmit 1 6741
+# transmit 1 6867
+# transmit 1 6993
+# transmit 1 7119
+# transmit 1 7245
+# transmit 1 7371
+# transmit 1 7497
+# transmit 0 7623
+# transmit 0 7749
+# transmit 0 7875
+# transmit 0 8001
+# transmit 0 8127
+# transmit 0 8253
+# transmit 0 8379
+# transmit 0 8505
+# transmit 0 8631
+# transmit 0 8757
+# transmit 0 8883
+# transmit 0 9009
+# transmit 0 9135
+# transmit 0 9261
+# transmit 0 9387
+# transmit 0 9513
+# transmit 0 9639
+# transmit 0 9765
+# transmit 0 9891
+# transmit 0 10017
+# transmit 1 10143
+# transmit 1 10269
+# transmit 1 10395
+# transmit 1 10521
+# transmit 1 10647
+# transmit 1 10773
+# transmit 1 10899
+# transmit 1 11025
+# transmit 1 11151
+# transmit 1 11277
+# transmit 1 11403
+# transmit 1 11529
+# transmit 1 11655
+# transmit 1 11781
+# transmit 1 11907
+# transmit 1 12033
+# transmit 1 12159
+# transmit 1 12285
+# transmit 1 12411
+# transmit 1 12537
+# transmit 0 12663
+# transmit 0 12789
+# transmit 0 12915
+# transmit 0 13041
+# transmit 0 13167
+# transmit 0 13293
+# transmit 0 13419
+# transmit 0 13545
+# transmit 0 13671
+# transmit 0 13797
+# transmit 0 13923
+# transmit 0 14049
+# transmit 0 14175
+# transmit 0 14301
+# transmit 0 14427
+# transmit 0 14553
+# transmit 0 14679
+# transmit 0 14805
+# transmit 0 14931
+# transmit 0 15057
+# transmit 1 15183
+# transmit 1 15309
+# transmit 1 15435
+# transmit 1 15561
+# transmit 1 15687
+# transmit 1 15813
+# transmit 1 15939
+# transmit 1 16065
+# transmit 1 16191
+# transmit 1 16317
+# transmit 1 16443
+# transmit 1 16569
+# transmit 1 16695
+# transmit 1 16821
+# transmit 1 16947
+# transmit 1 17073
+# transmit 1 17199
+# transmit 1 17325
+# transmit 1 17451
+# transmit 1 17577
+# transmit 0 17703
+# transmit 0 17829
+# transmit 0 17955
+# transmit 0 18081
+# transmit 0 18207
+# transmit 0 18333
+# transmit 0 18459
+# transmit 0 18585
+# transmit 0 18711
+# transmit 0 18837
+# transmit 0 18963
+# transmit 0 19089
+# transmit 0 19215
+# transmit 0 19341
+# transmit 0 19467
+# transmit 0 19593
+# transmit 0 19719
+# transmit 0 19845
+# transmit 0 19971
+# transmit 0 20097
+# transmit 1 20223
+# transmit 1 20349
+# transmit 1 20475
+# transmit 1 20601
+# transmit 1 20727
+# transmit 1 20853
+# transmit 1 20979
+# transmit 1 21105
+# transmit 1 21231
+# transmit 1 21357
+# transmit 1 21483
+# transmit 1 21609
+# transmit 1 21735
+# transmit 1 21861
+# transmit 1 21987
+# transmit 1 22113
+# transmit 1 22239
+# transmit 1 22365
+# transmit 1 22491
+# transmit 1 22617
+# transmit 0 22743
+# transmit 0 22869
+# transmit 0 22995
+# transmit 0 23121
+# transmit 0 23247
+# transmit 0 23373
+# transmit 0 23499
+# transmit 0 23625
+# transmit 0 23751
+# transmit 0 23877
+# transmit 0 24003
+# transmit 0 24129
+# transmit 0 24255
+# transmit 0 24381
+# transmit 0 24507
+# transmit 0 24633
+# transmit 0 24759
+# transmit 0 24885
+# transmit 0 25011
+# transmit 0 25137
+# transmit 1 25263
+# transmit 1 25389
+# transmit 1 25515
+# transmit 1 25641
+# transmit 1 25767
+# transmit 1 25893
+# transmit 1 26019
+# transmit 1 26145
+# transmit 1 26271
+# transmit 1 26397
+# transmit 1 26523
+# transmit 1 26649
+# transmit 1 26775
+# transmit 1 26901
+# transmit 1 27027
+# transmit 1 27153
+# transmit 1 27279
+# transmit 1 27405
+# transmit 1 27531
+# transmit 1 27657
+# transmit 0 27783
+# transmit 0 27909
+# transmit 0 28035
+# transmit 0 28161
+# transmit 0 28287
+# transmit 0 28413
+# transmit 0 28539
+# transmit 0 28665
+# transmit 0 28791
+# transmit 0 28917
+# transmit 0 29043
+# transmit 0 29169
+# transmit 0 29295
+# transmit 0 29421
+# transmit 0 29547
+# transmit 0 29673
+# transmit 0 29799
+# transmit 0 29925
+# transmit 0 30051
+# transmit 0 30177
+# transmit 1 30303
+# transmit 1 30429
+# transmit 1 30555
+# transmit 1 30681
+# transmit 1 30807
+# transmit 1 30933
+# transmit 1 31059
+# transmit 1 31185
+# transmit 1 31311
+# transmit 1 31437
+# transmit 1 31563
+# transmit 1 31689
+# transmit 1 31815
+# transmit 1 31941
+# transmit 1 32067
+# transmit 1 32193
+# transmit 1 32319
+# transmit 1 32445
+# transmit 1 32571
+# transmit 1 32697
+# transmit 0 32823
+# transmit 0 32949
+# transmit 0 33075
+# transmit 0 33201
+# transmit 0 33327
+# transmit 0 33453
+# transmit 0 33579
+# transmit 0 33705
+# transmit 0 33831
+# transmit 0 33957
+# transmit 0 34083
+# transmit 0 34209
+# transmit 0 34335
+# transmit 0 34461
+# transmit 0 34587
+# transmit 0 34713
+# transmit 0 34839
+# transmit 0 34965
+# transmit 0 35091
+# transmit 0 35217
+# transmit 1 35343
+# transmit 1 35469
+# transmit 1 35595
+# transmit 1 35721
+# transmit 1 35847
+# transmit 1 35973
+# transmit 1 36099
+# transmit 1 36225
+# transmit 1 36351
+# transmit 1 36477
+# transmit 1 36603
+# transmit 1 36729
+# transmit 1 36855
+# transmit 1 36981
+# transmit 1 37107
+# transmit 1 37233
+# transmit 1 37359
+# transmit 1 37485
+# transmit 1 37611
+# transmit 1 37737
+# transmit 0 37863
+# transmit 0 37989
+# transmit 0 38115
+# transmit 0 38241
+# transmit 0 38367
+# transmit 0 38493
+# transmit 0 38619
+# transmit 0 38745
+# transmit 0 38871
+# transmit 0 38997
+# transmit 0 39123
+# transmit 0 39249
+# transmit 0 39375
+# transmit 0 39501
+# transmit 0 39627
+# transmit 0 39753
+# transmit 0 39879
+# transmit 0 40005
+# transmit 0 40131
+# transmit 0 40257
+# transmit 1 40383
+# transmit 1 40509
+# transmit 1 40635
+# transmit 1 40761
+# transmit 1 40887
+# transmit 1 41013
+# transmit 1 41139
+# transmit 1 41265
+# transmit 1 41391
+# transmit 1 41517
+# transmit 1 41643
+# transmit 1 41769
+# transmit 1 41895
+# transmit 1 42021
+# transmit 1 42147
+# transmit 1 42273
+# transmit 1 42399
+# transmit 1 42525
+# transmit 1 42651
+# transmit 1 42777
+# transmit 0 42903
+# transmit 0 43029
+# transmit 0 43155
+# transmit 0 43281
+# transmit 0 43407
+# transmit 0 43533
+# transmit 0 43659
+# transmit 0 43785
+# transmit 0 43911
+# transmit 0 44037
+# transmit 0 44163
+# transmit 0 44289
+# transmit 0 44415
+# transmit 0 44541
+# transmit 0 44667
+# transmit 0 44793
+# transmit 0 44919
+# transmit 0 45045
+# transmit 0 45171
+# transmit 0 45297
+# transmit 1 45423
+# transmit 1 45549
+# transmit 1 45675
+# transmit 1 45801
+# transmit 1 45927
+# transmit 1 46053
+# transmit 1 46179
+# transmit 1 46305
+# transmit 1 46431
+# transmit 1 46557
+# transmit 1 46683
+# transmit 1 46809
+# transmit 1 46935
+# transmit 1 47061
+# transmit 1 47187
+# transmit 1 47313
+# transmit 1 47439
+# transmit 1 47565
+# transmit 1 47691
+# transmit 1 47817
+# transmit 0 47943
+# transmit 0 48069
+# transmit 0 48195
+# transmit 0 48321
+# transmit 0 48447
+# transmit 0 48573
+# transmit 0 48699
+# transmit 0 48825
+# transmit 0 48951
+# transmit 0 49077
+# transmit 0 49203
+# transmit 0 49329
+# transmit 0 49455
+# transmit 0 49581
+# transmit 0 49707
+# transmit 0 49833
+# transmit 0 49959
+# transmit 0 50085
+# transmit 0 50211
+# transmit 0 50337
+# transmit 1 50463
+# transmit 1 50589
+# transmit 1 50715
+# transmit 1 50841
+# transmit 1 50967
+# transmit 1 51093
+# transmit 1 51219
+# transmit 1 51345
+# transmit 1 51471
+# transmit 1 51597
+# transmit 1 51723
+# transmit 1 51849
+# transmit 1 51975
+# transmit 1 52101
+# transmit 1 52227
+# transmit 1 52353
+# transmit 1 52479
+# transmit 1 52605
+# transmit 1 52731
+# transmit 1 52857
+# transmit 0 52983
+# transmit 0 53109
+# transmit 0 53235
+# transmit 0 53361
+# transmit 0 53487
+# transmit 0 53613
+# transmit 0 53739
+# transmit 0 53865
+# transmit 0 53991
+# transmit 0 54117
+# transmit 0 54243
+# transmit 0 54369
+# transmit 0 54495
+# transmit 0 54621
+# transmit 0 54747
+# transmit 0 54873
+# transmit 0 54999
+# transmit 0 55125
+# transmit 0 55251
+# transmit 0 55377
+# transmit 1 55503
+# transmit 1 55629
+# transmit 1 55755
+# transmit 1 55881
+# transmit 1 56007
+# transmit 1 56133
+# transmit 1 56259
+# transmit 1 56385
+# transmit 1 56511
+# transmit 1 56637
+# transmit 1 56763
+# transmit 1 56889
+# transmit 1 57015
+# transmit 1 57141
+# transmit 1 57267
+# transmit 1 57393
+# transmit 1 57519
+# transmit 1 57645
+# transmit 1 57771
+# transmit 1 57897
+# transmit 0 58023
+# transmit 0 58149
+# transmit 0 58275
+# transmit 0 58401
+# transmit 0 58527
+# transmit 0 58653
+# transmit 0 58779
+# transmit 0 58905
+# transmit 0 59031
+# transmit 0 59157
+# transmit 0 59283
+# transmit 0 59409
+# transmit 0 59535
+# transmit 0 59661
+# transmit 0 59787
+# transmit 0 59913
+# transmit 0 60039
+# transmit 0 60165
+# transmit 0 60291
+# transmit 0 60417
+# transmit 0 60543
+# transmit 1 60669
+# transmit 1 60795
+# transmit 1 60921
+# transmit 1 61047
+# transmit 1 61173
+# transmit 1 61299
+# transmit 1 61425
+# transmit 1 61551
+# transmit 1 61677
+# transmit 1 61803
+# transmit 1 61929
+# transmit 1 62055
+# transmit 1 62181
+# transmit 1 62307
+# transmit 1 62433
+# transmit 1 62559
+# transmit 1 62685
+# transmit 1 62811
+# transmit 1 62937
+# transmit 0 63063
+# transmit 0 63189
+# transmit 0 63315
+# transmit 0 63441
+# transmit 0 63567
+# transmit 0 63693
+# transmit 0 63819
+# transmit 0 63945
+# transmit 0 64071
+# transmit 0 64197
+# transmit 0 64323
+# transmit 0 64449
+# transmit 0 64575
+# transmit 0 64701
+# transmit 0 64827
+# transmit 0 64953
+# transmit 0 65079
+# transmit 0 65205
+# transmit 0 65331
+# transmit 0 65457
+# transmit 1 65583
+# transmit 1 65709
+# transmit 1 65835
+# transmit 1 65961
+# transmit 1 66087
+# transmit 1 66213
+# transmit 1 66339
+# transmit 1 66465
+# transmit 1 66591
+# transmit 1 66717
+# transmit 1 66843
+# transmit 1 66969
+# transmit 1 67095
+# transmit 1 67221
+# transmit 1 67347
+# transmit 1 67473
+# transmit 1 67599
+# transmit 1 67725
+# transmit 1 67851
+# transmit 1 67977
+# transmit 0 68103
+# transmit 0 68229
+# transmit 0 68355
+# transmit 0 68481
+# transmit 0 68607
+# transmit 0 68733
+# transmit 0 68859
+# transmit 0 68985
+# transmit 0 69111
+# transmit 0 69237
+# transmit 0 69363
+# transmit 0 69489
+# transmit 0 69615
+# transmit 0 69741
+# transmit 0 69867
+# transmit 0 69993
+# transmit 0 70119
+# transmit 0 70245
+# transmit 0 70371
+# transmit 0 70497
+# transmit 1 70623
+# transmit 1 70749
+# transmit 1 70875
+# transmit 1 71001
+# transmit 1 71127
+# transmit 1 71253
+# transmit 1 71379
+# transmit 1 71505
+# transmit 1 71631
+# transmit 1 71757
+# transmit 1 71883
+# transmit 1 72009
+# transmit 1 72135
+# transmit 1 72261
+# transmit 1 72387
+# transmit 1 72513
+# transmit 1 72639
+# transmit 1 72765
+# transmit 1 72891
+# transmit 1 73017
+# transmit 0 73143
+# transmit 0 73269
+# transmit 0 73395
+# transmit 0 73521
+# transmit 0 73647
+# transmit 0 73773
+# transmit 0 73899
+# transmit 0 74025
+# transmit 0 74151
+# transmit 0 74277
+# transmit 0 74403
+# transmit 0 74529
+# transmit 0 74655
+# transmit 0 74781
+# transmit 0 74907
+# transmit 0 75033
+# transmit 0 75159
+# transmit 0 75285
+# transmit 0 75411
+# transmit 0 75537
+# transmit 1 75663
+# transmit 1 75789
+# transmit 1 75915
+# transmit 1 76041
+# transmit 1 76167
+# transmit 1 76293
+# transmit 1 76419
+# transmit 1 76545
+# transmit 1 76671
+# transmit 1 76797
+# transmit 1 76923
+# transmit 1 77049
+# transmit 1 77175
+# transmit 1 77301
+# transmit 1 77427
+# transmit 1 77553
+# transmit 1 77679
+# transmit 1 77805
+# transmit 1 77931
+# transmit 1 78057
+# transmit 0 78183
+# transmit 0 78309
+# transmit 0 78435
+# transmit 0 78561
+# transmit 0 78687
+# transmit 0 78813
+# transmit 0 78939
+# transmit 0 79065
+# transmit 0 79191
+# transmit 0 79317
+# transmit 0 79443
+# transmit 0 79569
+# transmit 0 79695
+# transmit 0 79821
+# transmit 0 79947
+# transmit 0 80073
+# transmit 0 80199
+# transmit 0 80325
+# transmit 0 80451
+# transmit 0 80577
+# transmit 1 80703
+# transmit 1 80829
+# transmit 1 80955
+# transmit 1 81081
+# transmit 1 81207
+# transmit 1 81333
+# transmit 1 81459
+# transmit 1 81585
+# transmit 1 81711
+# transmit 1 81837
+# transmit 1 81963
+# transmit 1 82089
+# transmit 1 82215
+# transmit 1 82341
+# transmit 1 82467
+# transmit 1 82593
+# transmit 1 82719
+# transmit 1 82845
+# transmit 1 82971
+# transmit 1 83097
+# transmit 0 83223
+# transmit 0 83349
+# transmit 0 83475
+# transmit 0 83601
+# transmit 0 83727
+# transmit 0 83853
+# transmit 0 83979
+# transmit 0 84105
+# transmit 0 84231
+# transmit 0 84357
+# transmit 0 84483
+# transmit 0 84609
+# transmit 0 84735
+# transmit 0 84861
+# transmit 0 84987
+# transmit 0 85113
+# transmit 0 85239
+# transmit 0 85365
+# transmit 0 85491
+# transmit 0 85617
+# transmit 1 85743
+# transmit 1 85869
+# transmit 1 85995
+# transmit 1 86121
+# transmit 1 86247
+# transmit 1 86373
+# transmit 1 86499
+# transmit 1 86625
+# transmit 1 86751
+# transmit 1 86877
+# transmit 1 87003
+# transmit 1 87129
+# transmit 1 87255
+# transmit 1 87381
+# transmit 1 87507
+# transmit 1 87633
+# transmit 1 87759
+# transmit 1 87885
+# transmit 1 88011
+# transmit 1 88137
+# transmit 0 88263
+# transmit 0 88389
+# transmit 0 88515
+# transmit 0 88641
+# transmit 0 88767
+# transmit 0 88893
+# transmit 0 89019
+# transmit 0 89145
+# transmit 0 89271
+# transmit 0 89397
+# transmit 0 89523
+# transmit 0 89649
+# transmit 0 89775
+# transmit 0 89901
+# transmit 0 90027
+# transmit 0 90153
+# transmit 0 90279
+# transmit 0 90405
+# transmit 0 90531
+# transmit 0 90657
+# transmit 1 90783
+# transmit 1 90909
+# transmit 1 91035
+# transmit 1 91161
+# transmit 1 91287
+# transmit 1 91413
+# transmit 1 91539
+# transmit 1 91665
+# transmit 1 91791
+# transmit 1 91917
+# transmit 1 92043
+# transmit 1 92169
+# transmit 1 92295
+# transmit 1 92421
+# transmit 1 92547
+# transmit 1 92673
+# transmit 1 92799
+# transmit 1 92925
+# transmit 1 93051
+# transmit 1 93177
+# transmit 0 93303
+# transmit 0 93429
+# transmit 0 93555
+# transmit 0 93681
+# transmit 0 93807
+# transmit 0 93933
+# transmit 0 94059
+# transmit 0 94185
+# transmit 0 94311
+# transmit 0 94437
+# transmit 0 94563
+# transmit 0 94689
+# transmit 0 94815
+# transmit 0 94941
+# transmit 0 95067
+# transmit 0 95193
+# transmit 0 95319
+# transmit 0 95445
+# transmit 0 95571
+# transmit 0 95697
+# transmit 1 95823
+# transmit 1 95949
+# transmit 1 96075
+# transmit 1 96201
+# transmit 1 96327
+# transmit 1 96453
+# transmit 1 96579
+# transmit 1 96705
+# transmit 1 96831
+# transmit 1 96957
+# transmit 1 97083
+# transmit 1 97209
+# transmit 1 97335
+# transmit 1 97461
+# transmit 1 97587
+# transmit 1 97713
+# transmit 1 97839
+# transmit 1 97965
+# transmit 1 98091
+# transmit 1 98217
+# transmit 0 98343
+# transmit 0 98469
+# transmit 0 98595
+# transmit 0 98721
+# transmit 0 98847
+# transmit 0 98973
+# transmit 0 99099
+# transmit 0 99225
+# transmit 0 99351
+# transmit 0 99477
+# transmit 0 99603
+# transmit 0 99729
+# transmit 0 99855
+# transmit 0 99981
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmit 1 63
+# transmit 1 189
+# transmit 1 315
+# transmit 1 441
+# transmit 1 567
+# transmit 1 693
+# transmit 1 819
+# transmit 1 945
+# transmit 1 1071
+# transmit 1 1197
+# transmit 1 1323
+# transmit 1 1449
+# transmit 1 1575
+# transmit 1 1701
+# transmit 1 1827
+# transmit 1 1953
+# transmit 1 2079
+# transmit 1 2205
+# transmit 1 2331
+# transmit 1 2457
+# transmit 0 2583
+# transmit 0 2709
+# transmit 0 2835
+# transmit 0 2961
+# transmit 0 3087
+# transmit 0 3213
+# transmit 0 3339
+# transmit 0 3465
+# transmit 0 3591
+# transmit 0 3717
+# transmit 0 3843
+# transmit 0 3969
+add wave -position end  sim:/neopixel_TB/neo/pixel_data
+restart -f
+# Closing VCD file "waves.vcd"
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmit 1 63
+# transmit 1 189
+# transmit 1 315
+# transmit 1 441
+# transmit 1 567
+# transmit 1 693
+# transmit 1 819
+# transmit 1 945
+# transmit 1 1071
+# transmit 1 1197
+# transmit 1 1323
+# transmit 1 1449
+# transmit 1 1575
+# transmit 1 1701
+# transmit 1 1827
+# transmit 1 1953
+# transmit 1 2079
+# transmit 1 2205
+# transmit 1 2331
+# transmit 1 2457
+# transmit 0 2583
+# transmit 0 2709
+# transmit 0 2835
+# transmit 0 2961
+# transmit 0 3087
+# transmit 0 3213
+# transmit 0 3339
+# transmit 0 3465
+# transmit 0 3591
+# transmit 0 3717
+# transmit 0 3843
+# transmit 0 3969
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmit 1 31
+# transmit 1 93
+# transmit 1 155
+# transmit 1 217
+# transmit 1 279
+# transmit 1 341
+# transmit 1 403
+# transmit 1 465
+# transmit 1 527
+# transmit 1 589
+# transmit 1 651
+# transmit 1 713
+# transmit 1 775
+# transmit 1 837
+# transmit 1 899
+# transmit 1 961
+# transmit 1 1023
+# transmit 1 1085
+# transmit 1 1147
+# transmit 1 1209
+# transmit 0 1271
+# transmit 0 1333
+# transmit 0 1395
+# transmit 0 1457
+# transmit 0 1519
+# transmit 0 1581
+# transmit 0 1643
+# transmit 0 1705
+# transmit 0 1767
+# transmit 0 1829
+# transmit 0 1891
+# transmit 0 1953
+# transmit 0 2015
+# transmit 0 2077
+# transmit 0 2139
+# transmit 0 2201
+# transmit 0 2263
+# transmit 0 2325
+# transmit 0 2387
+# transmit 0 2449
+# transmit 1 2511
+# transmit 1 2573
+# transmit 1 2635
+# transmit 1 2697
+# transmit 1 2759
+# transmit 1 2821
+# transmit 1 2883
+# transmit 1 2945
+# transmit 1 3007
+# transmit 1 3069
+# transmit 1 3131
+# transmit 1 3193
+# transmit 1 3255
+# transmit 1 3317
+# transmit 1 3379
+# transmit 1 3441
+# transmit 1 3503
+# transmit 1 3565
+# transmit 1 3627
+# transmit 1 3689
+# transmit 0 3751
+# transmit 0 3813
+# transmit 0 3875
+# transmit 0 3937
+# transmit 0 3999
+restart -f
+# Closing VCD file "waves.vcd"
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmit 1 31
+# transmit 1 93
+# transmit 1 155
+# transmit 1 217
+# transmit 1 279
+# transmit 1 341
+# transmit 1 403
+# transmit 1 465
+# transmit 1 527
+# transmit 1 589
+# transmit 1 651
+# transmit 1 713
+# transmit 1 775
+# transmit 1 837
+# transmit 1 899
+# transmit 1 961
+# transmit 1 1023
+# transmit 1 1085
+# transmit 1 1147
+run
+# transmit 1 1209
+# transmit 0 1271
+# transmit 0 1333
+# transmit 0 1395
+# transmit 0 1457
+# transmit 0 1519
+# transmit 0 1581
+# transmit 0 1643
+# transmit 0 1705
+# transmit 0 1767
+# transmit 0 1829
+# transmit 0 1891
+# transmit 0 1953
+# transmit 0 2015
+# transmit 0 2077
+# transmit 0 2139
+# transmit 0 2201
+# transmit 0 2263
+# transmit 0 2325
+# transmit 0 2387
+run
+# transmit 0 2449
+# transmit 1 2511
+# transmit 1 2573
+# transmit 1 2635
+# transmit 1 2697
+# transmit 1 2759
+# transmit 1 2821
+# transmit 1 2883
+# transmit 1 2945
+# transmit 1 3007
+# transmit 1 3069
+# transmit 1 3131
+# transmit 1 3193
+# transmit 1 3255
+# transmit 1 3317
+# transmit 1 3379
+# transmit 1 3441
+# transmit 1 3503
+# transmit 1 3565
+run
+# transmit 1 3627
+# transmit 1 3689
+# transmit 0 3751
+# transmit 0 3813
+# transmit 0 3875
+# transmit 0 3937
+# transmit 0 3999
+# transmit 0 4061
+# transmit 0 4123
+# transmit 0 4185
+# transmit 0 4247
+# transmit 0 4309
+# transmit 0 4371
+# transmit 0 4433
+# transmit 0 4495
+# transmit 0 4557
+# transmit 0 4619
+# transmit 0 4681
+# transmit 0 4743
+run
+# transmit 0 4805
+# transmit 0 4867
+# transmit 0 4929
+# transmit 1 4991
+# transmit 1 5053
+# transmit 1 5115
+# transmit 1 5177
+# transmit 1 5239
+# transmit 1 5301
+# transmit 1 5363
+# transmit 1 5425
+# transmit 1 5487
+# transmit 1 5549
+# transmit 1 5611
+# transmit 1 5673
+# transmit 1 5735
+# transmit 1 5797
+# transmit 1 5859
+# transmit 1 5921
+# transmit 1 5983
+run
+# transmit 1 6045
+# transmit 1 6107
+# transmit 1 6169
+# transmit 0 6231
+# transmit 0 6293
+# transmit 0 6355
+# transmit 0 6417
+# transmit 0 6479
+# transmit 0 6541
+# transmit 0 6603
+# transmit 0 6665
+# transmit 0 6727
+# transmit 0 6789
+# transmit 0 6851
+# transmit 0 6913
+# transmit 0 6975
+# transmit 0 7037
+# transmit 0 7099
+# transmit 0 7161
+run
+# transmit 0 7223
+# transmit 0 7285
+# transmit 0 7347
+# transmit 0 7409
+# transmit 1 7471
+# transmit 1 7533
+# transmit 1 7595
+# transmit 1 7657
+# transmit 1 7719
+# transmit 1 7781
+# transmit 1 7843
+# transmit 1 7905
+# transmit 1 7967
+# transmit 1 8029
+# transmit 1 8091
+# transmit 1 8153
+# transmit 1 8215
+# transmit 1 8277
+# transmit 1 8339
+run
+# transmit 1 8401
+# transmit 1 8463
+# transmit 1 8525
+# transmit 1 8587
+# transmit 1 8649
+# transmit 0 8711
+# transmit 0 8773
+# transmit 0 8835
+# transmit 0 8897
+# transmit 0 8959
+# transmit 0 9021
+# transmit 0 9083
+# transmit 0 9145
+# transmit 0 9207
+# transmit 0 9269
+# transmit 0 9331
+# transmit 0 9393
+# transmit 0 9455
+# transmit 0 9517
+# transmit 0 9579
+run
+# transmit 0 9641
+# transmit 0 9703
+# transmit 0 9765
+# transmit 0 9827
+# transmit 0 9889
+# transmit 1 9951
+# transmit 1 10013
+# transmit 1 10075
+# transmit 1 10137
+# transmit 1 10199
+# transmit 1 10261
+# transmit 1 10323
+# transmit 1 10385
+# transmit 1 10447
+# transmit 1 10509
+# transmit 1 10571
+# transmit 1 10633
+# transmit 1 10695
+# transmit 1 10757
+run
+# transmit 1 10819
+# transmit 1 10881
+# transmit 1 10943
+# transmit 1 11005
+# transmit 1 11067
+# transmit 1 11129
+# transmit 0 11191
+# transmit 0 11253
+# transmit 0 11315
+# transmit 0 11377
+# transmit 0 11439
+# transmit 0 11501
+# transmit 0 11563
+# transmit 0 11625
+# transmit 0 11687
+# transmit 0 11749
+# transmit 0 11811
+# transmit 0 11873
+# transmit 0 11935
+# transmit 0 11997
+run
+# transmit 0 12059
+# transmit 0 12121
+# transmit 0 12183
+# transmit 0 12245
+# transmit 0 12307
+# transmit 0 12369
+# transmit 1 12431
+# transmit 1 12493
+# transmit 1 12555
+# transmit 1 12617
+# transmit 1 12679
+# transmit 1 12741
+# transmit 1 12803
+# transmit 1 12865
+# transmit 1 12927
+# transmit 1 12989
+# transmit 1 13051
+# transmit 1 13113
+# transmit 1 13175
+run
+# transmit 1 13237
+# transmit 1 13299
+# transmit 1 13361
+# transmit 1 13423
+# transmit 1 13485
+# transmit 1 13547
+# transmit 1 13609
+# transmit 0 13671
+# transmit 0 13733
+# transmit 0 13795
+# transmit 0 13857
+# transmit 0 13919
+# transmit 0 13981
+# transmit 0 14043
+# transmit 0 14105
+# transmit 0 14167
+# transmit 0 14229
+# transmit 0 14291
+# transmit 0 14353
+run
+# transmit 0 14415
+# transmit 0 14477
+# transmit 0 14539
+# transmit 0 14601
+# transmit 0 14663
+# transmit 0 14725
+# transmit 0 14787
+# transmit 0 14849
+# transmit 1 14911
+# transmit 1 14973
+# transmit 1 15035
+# transmit 1 15097
+# transmit 1 15159
+# transmit 1 15221
+# transmit 1 15283
+# transmit 1 15345
+# transmit 1 15407
+# transmit 1 15469
+# transmit 1 15531
+# transmit 1 15593
+run
+# transmit 1 15655
+# transmit 1 15717
+# transmit 1 15779
+# transmit 1 15841
+# transmit 1 15903
+# transmit 1 15965
+# transmit 1 16027
+# transmit 1 16089
+# transmit 0 16151
+# transmit 0 16213
+# transmit 0 16275
+# transmit 0 16337
+# transmit 0 16399
+# transmit 0 16461
+# transmit 0 16523
+# transmit 0 16585
+# transmit 0 16647
+# transmit 0 16709
+# transmit 0 16771
+run
+# transmit 0 16833
+# transmit 0 16895
+# transmit 0 16957
+# transmit 0 17019
+# transmit 0 17081
+# transmit 0 17143
+# transmit 0 17205
+# transmit 0 17267
+# transmit 0 17329
+# transmit 1 17391
+# transmit 1 17453
+# transmit 1 17515
+# transmit 1 17577
+# transmit 1 17639
+# transmit 1 17701
+# transmit 1 17763
+# transmit 1 17825
+# transmit 1 17887
+# transmit 1 17949
+run
+# transmit 1 18011
+# transmit 1 18073
+# transmit 1 18135
+# transmit 1 18197
+# transmit 1 18259
+# transmit 1 18321
+# transmit 1 18383
+# transmit 1 18445
+# transmit 1 18507
+# transmit 1 18569
+# transmit 0 18631
+# transmit 0 18693
+# transmit 0 18755
+# transmit 0 18817
+# transmit 0 18879
+# transmit 0 18941
+# transmit 0 19003
+# transmit 0 19065
+# transmit 0 19127
+# transmit 0 19189
+run
+# transmit 0 19251
+# transmit 0 19313
+# transmit 0 19375
+# transmit 0 19437
+# transmit 0 19499
+# transmit 0 19561
+# transmit 0 19623
+# transmit 0 19685
+# transmit 0 19747
+# transmit 0 19809
+# transmit 1 19871
+# transmit 1 19933
+# transmit 1 19995
+# transmit 1 20057
+# transmit 1 20119
+# transmit 1 20181
+# transmit 1 20243
+# transmit 1 20305
+# transmit 1 20367
+run
+# transmit 1 20429
+# transmit 1 20491
+# transmit 1 20553
+# transmit 1 20615
+# transmit 1 20677
+# transmit 1 20739
+# transmit 1 20801
+# transmit 1 20863
+# transmit 1 20925
+# transmit 1 20987
+# transmit 1 21049
+# transmit 0 21111
+# transmit 0 21173
+# transmit 0 21235
+# transmit 0 21297
+# transmit 0 21359
+# transmit 0 21421
+# transmit 0 21483
+# transmit 0 21545
+run
+# transmit 0 21607
+# transmit 0 21669
+# transmit 0 21731
+# transmit 0 21793
+# transmit 0 21855
+# transmit 0 21917
+# transmit 0 21979
+# transmit 0 22041
+# transmit 0 22103
+# transmit 0 22165
+# transmit 0 22227
+# transmit 0 22289
+# transmit 1 22351
+# transmit 1 22413
+# transmit 1 22475
+# transmit 1 22537
+# transmit 1 22599
+# transmit 1 22661
+# transmit 1 22723
+# transmit 1 22785
+run
+# transmit 1 22847
+# transmit 1 22909
+# transmit 1 22971
+# transmit 1 23033
+# transmit 1 23095
+# transmit 1 23157
+# transmit 1 23219
+# transmit 1 23281
+# transmit 1 23343
+# transmit 1 23405
+# transmit 1 23467
+# transmit 1 23529
+# transmit 0 23591
+# transmit 0 23653
+# transmit 0 23715
+# transmit 0 23777
+# transmit 0 23839
+# transmit 0 23901
+# transmit 0 23963
+run
+# transmit 0 24025
+# transmit 0 24087
+# transmit 0 24149
+# transmit 0 24211
+# transmit 0 24273
+# transmit 0 24335
+# transmit 0 24397
+# transmit 0 24459
+# transmit 0 24521
+# transmit 0 24583
+# transmit 0 24645
+# transmit 0 24707
+# transmit 0 24769
+# transmit 1 24831
+# transmit 1 24893
+# transmit 1 24955
+# transmit 1 25017
+# transmit 1 25079
+# transmit 1 25141
+run
+# transmit 1 25203
+# transmit 1 25265
+# transmit 1 25327
+# transmit 1 25389
+# transmit 1 25451
+# transmit 1 25513
+# transmit 1 25575
+# transmit 1 25637
+# transmit 1 25699
+# transmit 1 25761
+# transmit 1 25823
+# transmit 1 25885
+# transmit 1 25947
+# transmit 1 26009
+# transmit 0 26071
+# transmit 0 26133
+# transmit 0 26195
+# transmit 0 26257
+# transmit 0 26319
+# transmit 0 26381
+run
+# transmit 0 26443
+# transmit 0 26505
+# transmit 0 26567
+# transmit 0 26629
+# transmit 0 26691
+# transmit 0 26753
+# transmit 0 26815
+# transmit 0 26877
+# transmit 0 26939
+# transmit 0 27001
+# transmit 0 27063
+# transmit 0 27125
+# transmit 0 27187
+# transmit 0 27249
+# transmit 1 27311
+# transmit 1 27373
+# transmit 1 27435
+# transmit 1 27497
+# transmit 1 27559
+run
+# transmit 1 27621
+# transmit 1 27683
+# transmit 1 27745
+# transmit 1 27807
+# transmit 1 27869
+# transmit 1 27931
+# transmit 1 27993
+# transmit 1 28055
+# transmit 1 28117
+# transmit 1 28179
+# transmit 1 28241
+# transmit 1 28303
+# transmit 1 28365
+# transmit 1 28427
+# transmit 1 28489
+# transmit 0 28551
+# transmit 0 28613
+# transmit 0 28675
+# transmit 0 28737
+# transmit 0 28799
+run
+# transmit 0 28861
+# transmit 0 28923
+# transmit 0 28985
+# transmit 0 29047
+# transmit 0 29109
+# transmit 0 29171
+# transmit 0 29233
+# transmit 0 29295
+# transmit 0 29357
+# transmit 0 29419
+# transmit 0 29481
+# transmit 0 29543
+# transmit 0 29605
+# transmit 0 29667
+# transmit 0 29729
+# transmit 0 29791
+# transmit 1 29853
+# transmit 1 29915
+# transmit 1 29977
+run
+# transmit 1 30039
+# transmit 1 30101
+# transmit 1 30163
+# transmit 1 30225
+# transmit 1 30287
+# transmit 1 30349
+# transmit 1 30411
+# transmit 1 30473
+# transmit 1 30535
+# transmit 1 30597
+# transmit 1 30659
+# transmit 1 30721
+# transmit 1 30783
+# transmit 1 30845
+# transmit 1 30907
+# transmit 1 30969
+# transmit 0 31031
+# transmit 0 31093
+# transmit 0 31155
+run
+# transmit 0 31217
+# transmit 0 31279
+# transmit 0 31341
+# transmit 0 31403
+# transmit 0 31465
+# transmit 0 31527
+# transmit 0 31589
+# transmit 0 31651
+# transmit 0 31713
+# transmit 0 31775
+# transmit 0 31837
+# transmit 0 31899
+# transmit 0 31961
+# transmit 0 32023
+# transmit 0 32085
+# transmit 0 32147
+# transmit 0 32209
+# transmit 1 32271
+# transmit 1 32333
+# transmit 1 32395
+run
+# transmit 1 32457
+# transmit 1 32519
+# transmit 1 32581
+# transmit 1 32643
+# transmit 1 32705
+# transmit 1 32767
+# transmit 1 32829
+# transmit 1 32891
+# transmit 1 32953
+# transmit 1 33015
+# transmit 1 33077
+# transmit 1 33139
+# transmit 1 33201
+# transmit 1 33263
+# transmit 1 33325
+# transmit 1 33387
+# transmit 1 33449
+# transmit 0 33511
+# transmit 0 33573
+run
+# transmit 0 33635
+# transmit 0 33697
+# transmit 0 33759
+# transmit 0 33821
+# transmit 0 33883
+# transmit 0 33945
+# transmit 0 34007
+# transmit 0 34069
+# transmit 0 34131
+# transmit 0 34193
+# transmit 0 34255
+# transmit 0 34317
+# transmit 0 34379
+# transmit 0 34441
+# transmit 0 34503
+# transmit 0 34565
+# transmit 0 34627
+# transmit 0 34689
+# transmit 1 34751
+run
+# transmit 1 34813
+# transmit 1 34875
+# transmit 1 34937
+# transmit 1 34999
+# transmit 1 35061
+# transmit 1 35123
+# transmit 1 35185
+# transmit 1 35247
+# transmit 1 35309
+# transmit 1 35371
+# transmit 1 35433
+# transmit 1 35495
+# transmit 1 35557
+# transmit 1 35619
+# transmit 1 35681
+# transmit 1 35743
+# transmit 1 35805
+# transmit 1 35867
+# transmit 1 35929
+# transmit 0 35991
+run
+# transmit 0 36053
+# transmit 0 36115
+# transmit 0 36177
+# transmit 0 36239
+# transmit 0 36301
+# transmit 0 36363
+# transmit 0 36425
+# transmit 0 36487
+# transmit 0 36549
+# transmit 0 36611
+# transmit 0 36673
+# transmit 0 36735
+# transmit 0 36797
+# transmit 0 36859
+# transmit 0 36921
+# transmit 0 36983
+# transmit 0 37045
+# transmit 0 37107
+# transmit 0 37169
+run
+# transmit 1 37231
+# transmit 1 37293
+# transmit 1 37355
+# transmit 1 37417
+# transmit 1 37479
+# transmit 1 37541
+# transmit 1 37603
+# transmit 1 37665
+# transmit 1 37727
+# transmit 1 37789
+# transmit 1 37851
+# transmit 1 37913
+# transmit 1 37975
+# transmit 1 38037
+# transmit 1 38099
+# transmit 1 38161
+# transmit 1 38223
+# transmit 1 38285
+# transmit 1 38347
+run
+# transmit 1 38409
+# transmit 0 38471
+# transmit 0 38533
+# transmit 0 38595
+# transmit 0 38657
+# transmit 0 38719
+# transmit 0 38781
+# transmit 0 38843
+# transmit 0 38905
+# transmit 0 38967
+# transmit 0 39029
+# transmit 0 39091
+# transmit 0 39153
+# transmit 0 39215
+# transmit 0 39277
+# transmit 0 39339
+# transmit 0 39401
+# transmit 0 39463
+# transmit 0 39525
+# transmit 0 39587
+run
+# transmit 0 39649
+# transmit 1 39711
+# transmit 1 39773
+# transmit 1 39835
+# transmit 1 39897
+# transmit 1 39959
+# transmit 1 40021
+# transmit 1 40083
+# transmit 1 40145
+# transmit 1 40207
+# transmit 1 40269
+# transmit 1 40331
+# transmit 1 40393
+# transmit 1 40455
+# transmit 1 40517
+# transmit 1 40579
+# transmit 1 40641
+# transmit 1 40703
+# transmit 1 40765
+run
+# transmit 1 40827
+# transmit 1 40889
+# transmit 0 40951
+# transmit 0 41013
+# transmit 0 41075
+# transmit 0 41137
+# transmit 0 41199
+# transmit 0 41261
+# transmit 0 41323
+# transmit 0 41385
+# transmit 0 41447
+# transmit 0 41509
+# transmit 0 41571
+# transmit 0 41633
+# transmit 0 41695
+# transmit 0 41757
+# transmit 0 41819
+# transmit 0 41881
+# transmit 0 41943
+run
+# transmit 0 42005
+# transmit 0 42067
+# transmit 0 42129
+# transmit 1 42191
+# transmit 1 42253
+# transmit 1 42315
+# transmit 1 42377
+# transmit 1 42439
+# transmit 1 42501
+# transmit 1 42563
+# transmit 1 42625
+# transmit 1 42687
+# transmit 1 42749
+# transmit 1 42811
+# transmit 1 42873
+# transmit 1 42935
+# transmit 1 42997
+# transmit 1 43059
+# transmit 1 43121
+# transmit 1 43183
+run
+# transmit 1 43245
+# transmit 1 43307
+# transmit 1 43369
+# transmit 0 43431
+# transmit 0 43493
+# transmit 0 43555
+# transmit 0 43617
+# transmit 0 43679
+# transmit 0 43741
+# transmit 0 43803
+# transmit 0 43865
+# transmit 0 43927
+# transmit 0 43989
+# transmit 0 44051
+# transmit 0 44113
+# transmit 0 44175
+# transmit 0 44237
+# transmit 0 44299
+# transmit 0 44361
+run
+# transmit 0 44423
+# transmit 0 44485
+# transmit 0 44547
+# transmit 0 44609
+# transmit 1 44671
+# transmit 1 44733
+# transmit 1 44795
+# transmit 1 44857
+# transmit 1 44919
+# transmit 1 44981
+# transmit 1 45043
+# transmit 1 45105
+# transmit 1 45167
+# transmit 1 45229
+# transmit 1 45291
+# transmit 1 45353
+# transmit 1 45415
+# transmit 1 45477
+# transmit 1 45539
+run
+# transmit 1 45601
+# transmit 1 45663
+# transmit 1 45725
+# transmit 1 45787
+# transmit 1 45849
+# transmit 0 45911
+# transmit 0 45973
+# transmit 0 46035
+# transmit 0 46097
+# transmit 0 46159
+# transmit 0 46221
+# transmit 0 46283
+# transmit 0 46345
+# transmit 0 46407
+# transmit 0 46469
+# transmit 0 46531
+# transmit 0 46593
+# transmit 0 46655
+# transmit 0 46717
+# transmit 0 46779
+run
+# transmit 0 46841
+# transmit 0 46903
+# transmit 0 46965
+# transmit 0 47027
+# transmit 0 47089
+# transmit 1 47151
+# transmit 1 47213
+# transmit 1 47275
+# transmit 1 47337
+# transmit 1 47399
+# transmit 1 47461
+# transmit 1 47523
+# transmit 1 47585
+# transmit 1 47647
+# transmit 1 47709
+# transmit 1 47771
+# transmit 1 47833
+# transmit 1 47895
+# transmit 1 47957
+run
+# transmit 1 48019
+# transmit 1 48081
+# transmit 1 48143
+# transmit 1 48205
+# transmit 1 48267
+# transmit 1 48329
+# transmit 0 48391
+# transmit 0 48453
+# transmit 0 48515
+# transmit 0 48577
+# transmit 0 48639
+# transmit 0 48701
+# transmit 0 48763
+# transmit 0 48825
+# transmit 0 48887
+# transmit 0 48949
+# transmit 0 49011
+# transmit 0 49073
+# transmit 0 49135
+# transmit 0 49197
+run
+# transmit 0 49259
+# transmit 0 49321
+# transmit 0 49383
+# transmit 0 49445
+# transmit 0 49507
+# transmit 0 49569
+# transmit 1 49631
+# transmit 1 49693
+# transmit 1 49755
+# transmit 1 49817
+# transmit 1 49879
+# transmit 1 49941
+# transmit 1 50003
+# transmit 1 50065
+# transmit 1 50127
+# transmit 1 50189
+# transmit 1 50251
+# transmit 1 50313
+# transmit 1 50375
+run
+# transmit 1 50437
+# transmit 1 50499
+# transmit 1 50561
+# transmit 1 50623
+# transmit 1 50685
+# transmit 1 50747
+# transmit 1 50809
+# transmit 0 50871
+# transmit 0 50933
+# transmit 0 50995
+# transmit 0 51057
+# transmit 0 51119
+# transmit 0 51181
+# transmit 0 51243
+# transmit 0 51305
+# transmit 0 51367
+# transmit 0 51429
+# transmit 0 51491
+# transmit 0 51553
+run
+# transmit 0 51615
+# transmit 0 51677
+# transmit 0 51739
+# transmit 0 51801
+# transmit 0 51863
+# transmit 0 51925
+# transmit 0 51987
+# transmit 0 52049
+# transmit 1 52111
+# transmit 1 52173
+# transmit 1 52235
+# transmit 1 52297
+# transmit 1 52359
+# transmit 1 52421
+# transmit 1 52483
+# transmit 1 52545
+# transmit 1 52607
+# transmit 1 52669
+# transmit 1 52731
+# transmit 1 52793
+run
+# transmit 1 52855
+# transmit 1 52917
+# transmit 1 52979
+# transmit 1 53041
+# transmit 1 53103
+# transmit 1 53165
+# transmit 1 53227
+# transmit 1 53289
+# transmit 0 53351
+# transmit 0 53413
+# transmit 0 53475
+# transmit 0 53537
+# transmit 0 53599
+# transmit 0 53661
+# transmit 0 53723
+# transmit 0 53785
+# transmit 0 53847
+# transmit 0 53909
+# transmit 0 53971
+run
+# transmit 0 54033
+# transmit 0 54095
+# transmit 0 54157
+# transmit 0 54219
+# transmit 0 54281
+# transmit 0 54343
+# transmit 0 54405
+# transmit 0 54467
+# transmit 0 54529
+# transmit 1 54591
+# transmit 1 54653
+# transmit 1 54715
+# transmit 1 54777
+# transmit 1 54839
+# transmit 1 54901
+# transmit 1 54963
+# transmit 1 55025
+# transmit 1 55087
+# transmit 1 55149
+run
+# transmit 1 55211
+# transmit 1 55273
+# transmit 1 55335
+# transmit 1 55397
+# transmit 1 55459
+# transmit 1 55521
+# transmit 1 55583
+# transmit 1 55645
+# transmit 1 55707
+# transmit 1 55769
+# transmit 0 55831
+# transmit 0 55893
+# transmit 0 55955
+# transmit 0 56017
+# transmit 0 56079
+# transmit 0 56141
+# transmit 0 56203
+# transmit 0 56265
+# transmit 0 56327
+# transmit 0 56389
+run
+# transmit 0 56451
+# transmit 0 56513
+# transmit 0 56575
+# transmit 0 56637
+# transmit 0 56699
+# transmit 0 56761
+# transmit 0 56823
+# transmit 0 56885
+# transmit 0 56947
+# transmit 0 57009
+# transmit 1 57071
+# transmit 1 57133
+# transmit 1 57195
+# transmit 1 57257
+# transmit 1 57319
+# transmit 1 57381
+# transmit 1 57443
+# transmit 1 57505
+# transmit 1 57567
+run
+# transmit 1 57629
+# transmit 1 57691
+# transmit 1 57753
+# transmit 1 57815
+# transmit 1 57877
+# transmit 1 57939
+# transmit 1 58001
+# transmit 1 58063
+# transmit 1 58125
+# transmit 1 58187
+# transmit 1 58249
+# transmit 0 58311
+# transmit 0 58373
+# transmit 0 58435
+# transmit 0 58497
+# transmit 0 58559
+# transmit 0 58621
+# transmit 0 58683
+# transmit 0 58745
+run
+# transmit 0 58807
+# transmit 0 58869
+# transmit 0 58931
+# transmit 0 58993
+# transmit 0 59055
+# transmit 0 59117
+# transmit 0 59179
+# transmit 0 59241
+# transmit 0 59303
+# transmit 0 59365
+# transmit 0 59427
+# transmit 0 59489
+# transmit 0 59551
+# transmit 1 59613
+# transmit 1 59675
+# transmit 1 59737
+# transmit 1 59799
+# transmit 1 59861
+# transmit 1 59923
+# transmit 1 59985
+run
+# transmit 1 60047
+# transmit 1 60109
+# transmit 1 60171
+# transmit 1 60233
+# transmit 1 60295
+# transmit 1 60357
+# transmit 1 60419
+# transmit 1 60481
+# transmit 1 60543
+# transmit 1 60605
+# transmit 1 60667
+# transmit 1 60729
+# transmit 0 60791
+# transmit 0 60853
+# transmit 0 60915
+# transmit 0 60977
+# transmit 0 61039
+# transmit 0 61101
+# transmit 0 61163
+run
+# transmit 0 61225
+# transmit 0 61287
+# transmit 0 61349
+# transmit 0 61411
+# transmit 0 61473
+# transmit 0 61535
+# transmit 0 61597
+# transmit 0 61659
+# transmit 0 61721
+# transmit 0 61783
+# transmit 0 61845
+# transmit 0 61907
+# transmit 0 61969
+# transmit 1 62031
+# transmit 1 62093
+# transmit 1 62155
+# transmit 1 62217
+# transmit 1 62279
+# transmit 1 62341
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmitted 1 1209
+# transmitted 0 2449
+# transmitted 1 3689
+# transmitted 0 4929
+# transmitted 1 6169
+# transmitted 0 7409
+# transmitted 1 8649
+# transmitted 0 9889
+# transmitted 1 11129
+# transmitted 0 12369
+# transmitted 1 13609
+# transmitted 0 14849
+# transmitted 1 16089
+# transmitted 0 17329
+# transmitted 1 18569
+# transmitted 0 19809
+# transmitted 1 21049
+# transmitted 0 22289
+# transmitted 1 23529
+# transmitted 0 24769
+# transmitted 1 26009
+# transmitted 0 27249
+# transmitted 1 28489
+# transmitted 0 29729
+# reset pixel pointer 29791
+# transmitted 1 30969
+# transmitted 0 32209
+# transmitted 1 33449
+# transmitted 0 34689
+# transmitted 1 35929
+# transmitted 0 37169
+# transmitted 1 38409
+# transmitted 0 39649
+# transmitted 1 40889
+# transmitted 0 42129
+# transmitted 1 43369
+# transmitted 0 44609
+# transmitted 1 45849
+# transmitted 0 47089
+# transmitted 1 48329
+# transmitted 0 49569
+# transmitted 1 50809
+# transmitted 0 52049
+# transmitted 1 53289
+# transmitted 0 54529
+# transmitted 1 55769
+# transmitted 0 57009
+# transmitted 1 58249
+# transmitted 0 59489
+# reset pixel pointer 59551
+# transmitted 1 60729
+# transmitted 0 61969
+# transmitted 1 63209
+# transmitted 0 64449
+# transmitted 1 65689
+# transmitted 0 66929
+# transmitted 1 68169
+# transmitted 0 69409
+# transmitted 1 70649
+# transmitted 0 71889
+# transmitted 1 73129
+# transmitted 0 74369
+# transmitted 1 75609
+# transmitted 0 76849
+# transmitted 1 78089
+# transmitted 0 79329
+# transmitted 1 80569
+# transmitted 0 81809
+# transmitted 1 83049
+# transmitted 0 84289
+# transmitted 1 85529
+# transmitted 0 86769
+# transmitted 1 88009
+# transmitted 0 89249
+# reset pixel pointer 89311
+# reset 89373
+# reset 89435
+# reset 89497
+# reset 89559
+# reset 89621
+# reset 89683
+# reset 89745
+# reset 89807
+# reset 89869
+# reset 89931
+# reset 89993
+# reset 90055
+# reset 90117
+# reset 90179
+# reset 90241
+# reset 90303
+# reset 90365
+# reset 90427
+# reset 90489
+# reset 90551
+# reset 90613
+# reset 90675
+# reset 90737
+# reset 90799
+# reset 90861
+# reset 90923
+# reset 90985
+# reset 91047
+# reset 91109
+# reset 91171
+# reset 91233
+# reset 91295
+# reset 91357
+# reset 91419
+# reset 91481
+# reset 91543
+# reset 91605
+# reset 91667
+# reset 91729
+# reset 91791
+# reset 91853
+# reset 91915
+# reset 91977
+# reset 92039
+# reset 92101
+# reset 92163
+# reset 92225
+# reset 92287
+# reset 92349
+# reset 92411
+# reset 92473
+# reset 92535
+# reset 92597
+# reset 92659
+# reset 92721
+# reset 92783
+# reset 92845
+# reset 92907
+# reset 92969
+# reset 93031
+# reset 93093
+# reset 93155
+# reset 93217
+# reset 93279
+# reset 93341
+# reset 93403
+# reset 93465
+# reset 93527
+# reset 93589
+# reset 93651
+# reset 93713
+# reset 93775
+# reset 93837
+# reset 93899
+# reset 93961
+# reset 94023
+# reset 94085
+# reset 94147
+# reset 94209
+# reset 94271
+# reset 94333
+# reset 94395
+# reset 94457
+# reset 94519
+# reset 94581
+# reset 94643
+# reset 94705
+# reset 94767
+# reset 94829
+# reset 94891
+# reset 94953
+# reset 95015
+# reset 95077
+# reset 95139
+# reset 95201
+# reset 95263
+# reset 95325
+# reset 95387
+# reset 95449
+# reset 95511
+# reset 95573
+# reset 95635
+# reset 95697
+# reset 95759
+# reset 95821
+# reset 95883
+# reset 95945
+# reset 96007
+# reset 96069
+# reset 96131
+# reset 96193
+# reset 96255
+# reset 96317
+# reset 96379
+# reset 96441
+# reset 96503
+# reset 96565
+# reset 96627
+# reset 96689
+# reset 96751
+# reset 96813
+# reset 96875
+# reset 96937
+# reset 96999
+# reset 97061
+# reset 97123
+# reset 97185
+# reset 97247
+# reset 97309
+# reset 97371
+# reset 97433
+# reset 97495
+# reset 97557
+# reset 97619
+# reset 97681
+# reset 97743
+# reset 97805
+# reset 97867
+# reset 97929
+# reset 97991
+# reset 98053
+# reset 98115
+# reset 98177
+# reset 98239
+# reset 98301
+# reset 98363
+# reset 98425
+# reset 98487
+# reset 98549
+# reset 98611
+# reset 98673
+# reset 98735
+# reset 98797
+# reset 98859
+# reset 98921
+# reset 98983
+# reset 99045
+# reset 99107
+# reset 99169
+# reset 99231
+# reset 99293
+# reset 99355
+# reset 99417
+# reset 99479
+# reset 99541
+# reset 99603
+# reset 99665
+# reset 99727
+# reset 99789
+# reset 99851
+# reset 99913
+# reset 99975
+# reset 100037
+# reset 100099
+# reset 100161
+# reset 100223
+# reset 100285
+# reset 100347
+# reset 100409
+# reset 100471
+# reset 100533
+# reset 100595
+# reset 100657
+# reset 100719
+# reset 100781
+# reset 100843
+# reset 100905
+# reset 100967
+# reset 101029
+# reset 101091
+# reset 101153
+# reset 101215
+# reset 101277
+# reset 101339
+# reset 101401
+# reset 101463
+# reset 101525
+# reset 101587
+# reset 101649
+# reset 101711
+# reset 101773
+# reset 101835
+# reset 101897
+# reset 101959
+# reset 102021
+# reset 102083
+# reset 102145
+# reset 102207
+# reset 102269
+# reset 102331
+# reset 102393
+# reset 102455
+# reset 102517
+# reset 102579
+# reset 102641
+# reset 102703
+# reset 102765
+# reset 102827
+# reset 102889
+# reset 102951
+# reset 103013
+# reset 103075
+# reset 103137
+# reset 103199
+# reset 103261
+# reset 103323
+# reset 103385
+# reset 103447
+# reset 103509
+# reset 103571
+# reset 103633
+# reset 103695
+# reset 103757
+# reset 103819
+# reset 103881
+# reset 103943
+# reset 104005
+# reset 104067
+# reset 104129
+# reset 104191
+# reset 104253
+# reset 104315
+# reset 104377
+# reset 104439
+# reset 104501
+# reset 104563
+# reset 104625
+# reset 104687
+# reset 104749
+# reset 104811
+# reset 104873
+# reset 104935
+# reset 104997
+# reset 105059
+# reset 105121
+# reset 105183
+# reset 105245
+# reset 105307
+# reset 105369
+# reset 105431
+# reset 105493
+# reset 105555
+# reset 105617
+# reset 105679
+# reset 105741
+# reset 105803
+# reset 105865
+# reset 105927
+# reset 105989
+# reset 106051
+# reset 106113
+# reset 106175
+# reset 106237
+# reset 106299
+# reset 106361
+# reset 106423
+# reset 106485
+# reset 106547
+# reset 106609
+# reset 106671
+# reset 106733
+# reset 106795
+# reset 106857
+# reset 106919
+# reset 106981
+# reset 107043
+# reset 107105
+# reset 107167
+# reset 107229
+# reset 107291
+# reset 107353
+# reset 107415
+# reset 107477
+# reset 107539
+# reset 107601
+# reset 107663
+# reset 107725
+# reset 107787
+# reset 107849
+# reset 107911
+# reset 107973
+# reset 108035
+# reset 108097
+# reset 108159
+# reset 108221
+# reset 108283
+# reset 108345
+# reset 108407
+# reset 108469
+# reset 108531
+# reset 108593
+# reset 108655
+# reset 108717
+# reset 108779
+# reset 108841
+# reset 108903
+# reset 108965
+# reset 109027
+# reset 109089
+# reset 109151
+# reset 109213
+# reset 109275
+# reset 109337
+# reset 109399
+# reset 109461
+# reset 109523
+# reset 109585
+# reset 109647
+# reset 109709
+# reset 109771
+# reset 109833
+# reset 109895
+# reset 109957
+# reset 110019
+# reset 110081
+# reset 110143
+# reset 110205
+# reset 110267
+# reset 110329
+# reset 110391
+# reset 110453
+# reset 110515
+# reset 110577
+# reset 110639
+# reset 110701
+# reset 110763
+# reset 110825
+# reset 110887
+# reset 110949
+# reset 111011
+# reset 111073
+# reset 111135
+# reset 111197
+# reset 111259
+# reset 111321
+# reset 111383
+# reset 111445
+# reset 111507
+# reset 111569
+# reset 111631
+# reset 111693
+# reset 111755
+# reset 111817
+# reset 111879
+# reset 111941
+# reset 112003
+# reset 112065
+# reset 112127
+# reset 112189
+# reset 112251
+# reset 112313
+# reset 112375
+# reset 112437
+# reset 112499
+# reset 112561
+# reset 112623
+# reset 112685
+# reset 112747
+# reset 112809
+# reset 112871
+# reset 112933
+# reset 112995
+# reset 113057
+# reset 113119
+# reset 113181
+# reset 113243
+# reset 113305
+# reset 113367
+# reset 113429
+# reset 113491
+# reset 113553
+# reset 113615
+# reset 113677
+# reset 113739
+# reset 113801
+# reset 113863
+# reset 113925
+# reset 113987
+# reset 114049
+# reset 114111
+# reset 114173
+# reset 114235
+# reset 114297
+# reset 114359
+# reset 114421
+# reset 114483
+# reset 114545
+# reset 114607
+# reset 114669
+# reset 114731
+# reset 114793
+# reset 114855
+# reset 114917
+# reset 114979
+# reset 115041
+# reset 115103
+# reset 115165
+# reset 115227
+# reset 115289
+# reset 115351
+# reset 115413
+# reset 115475
+# reset 115537
+# reset 115599
+# reset 115661
+# reset 115723
+# reset 115785
+# reset 115847
+# reset 115909
+# reset 115971
+# reset 116033
+# reset 116095
+# reset 116157
+# reset 116219
+# reset 116281
+# reset 116343
+# reset 116405
+# reset 116467
+# reset 116529
+# reset 116591
+# reset 116653
+# reset 116715
+# reset 116777
+# reset 116839
+# reset 116901
+# reset 116963
+# reset 117025
+# reset 117087
+# reset 117149
+# reset 117211
+# reset 117273
+# reset 117335
+# reset 117397
+# reset 117459
+# reset 117521
+# reset 117583
+# reset 117645
+# reset 117707
+# reset 117769
+# reset 117831
+# reset 117893
+# reset 117955
+# reset 118017
+# reset 118079
+# reset 118141
+# reset 118203
+# reset 118265
+# reset 118327
+# reset 118389
+# reset 118451
+# reset 118513
+# reset 118575
+# reset 118637
+# reset 118699
+# reset 118761
+# reset 118823
+# reset 118885
+# reset 118947
+# reset 119009
+# reset 119071
+# reset 119133
+# reset 119195
+# reset 119257
+# reset 119319
+# reset 119381
+# reset 119443
+# reset 119505
+# reset 119567
+# reset 119629
+# reset 119691
+# reset 119753
+# reset 119815
+# reset 119877
+# reset 119939
+# reset 120001
+# reset 120063
+# reset 120125
+# reset 120187
+# reset 120249
+# reset 120311
+# reset 120373
+# reset 120435
+# reset 120497
+# reset 120559
+# reset 120621
+# reset 120683
+# reset 120745
+# reset 120807
+# reset 120869
+# reset 120931
+# reset 120993
+# reset 121055
+# reset 121117
+# reset 121179
+# reset 121241
+# reset 121303
+# reset 121365
+# reset 121427
+# reset 121489
+# reset 121551
+# reset 121613
+# reset 121675
+# reset 121737
+# reset 121799
+# reset 121861
+# reset 121923
+# reset 121985
+# reset 122047
+# reset 122109
+# reset 122171
+# reset 122233
+# reset 122295
+# reset 122357
+# reset 122419
+# reset 122481
+# reset 122543
+# reset 122605
+# reset 122667
+# reset 122729
+# reset 122791
+# reset 122853
+# reset 122915
+# reset 122977
+# reset 123039
+# reset 123101
+# reset 123163
+# reset 123225
+# reset 123287
+# reset 123349
+# reset 123411
+# reset 123473
+# reset 123535
+# reset 123597
+# reset 123659
+# reset 123721
+# reset 123783
+# reset 123845
+# reset 123907
+# reset 123969
+# reset 124031
+# reset 124093
+# reset 124155
+# reset 124217
+# reset 124279
+# reset 124341
+# reset 124403
+# reset 124465
+# reset 124527
+# reset 124589
+# reset 124651
+# reset 124713
+# reset 124775
+# reset 124837
+# reset 124899
+# reset 124961
+# reset 125023
+# reset 125085
+# reset 125147
+# reset 125209
+# reset 125271
+# reset 125333
+# reset 125395
+# reset 125457
+# reset 125519
+# reset 125581
+# reset 125643
+# reset 125705
+# reset 125767
+# reset 125829
+# reset 125891
+# reset 125953
+# reset 126015
+# reset 126077
+# reset 126139
+# reset 126201
+# reset 126263
+# reset 126325
+# reset 126387
+# reset 126449
+# reset 126511
+# reset 126573
+# reset 126635
+# reset 126697
+# reset 126759
+# reset 126821
+# reset 126883
+# reset 126945
+# reset 127007
+# reset 127069
+# reset 127131
+# reset 127193
+# reset 127255
+# reset 127317
+# reset 127379
+# reset 127441
+# reset 127503
+# reset 127565
+# reset 127627
+# reset 127689
+# reset 127751
+# reset 127813
+# reset 127875
+# reset 127937
+# reset 127999
+# reset 128061
+# reset 128123
+# reset 128185
+# reset 128247
+# reset 128309
+# reset 128371
+# reset 128433
+# reset 128495
+# reset 128557
+# reset 128619
+# reset 128681
+# reset 128743
+# reset 128805
+# reset 128867
+# reset 128929
+# reset 128991
+# reset 129053
+# reset 129115
+# reset 129177
+# reset 129239
+# reset 129301
+# reset 129363
+# reset 129425
+# reset 129487
+# reset 129549
+# reset 129611
+# reset 129673
+# reset 129735
+# reset 129797
+# reset 129859
+# reset 129921
+# reset 129983
+# reset 130045
+# reset 130107
+# reset 130169
+# reset 130231
+# reset 130293
+# reset 130355
+# reset 130417
+# reset 130479
+# reset 130541
+# reset 130603
+# reset 130665
+# reset 130727
+# reset 130789
+# reset 130851
+# reset 130913
+# reset 130975
+# reset 131037
+# reset 131099
+# reset 131161
+# reset 131223
+# reset 131285
+# reset 131347
+# reset 131409
+# reset 131471
+# reset 131533
+# reset 131595
+# reset 131657
+# reset 131719
+# reset 131781
+# reset 131843
+# reset 131905
+# reset 131967
+# reset 132029
+# reset 132091
+# reset 132153
+# reset 132215
+# reset 132277
+# reset 132339
+# reset 132401
+# reset 132463
+# reset 132525
+# reset 132587
+# reset 132649
+# reset 132711
+# reset 132773
+# reset 132835
+# reset 132897
+# reset 132959
+# reset 133021
+# reset 133083
+# reset 133145
+# reset 133207
+# reset 133269
+# reset 133331
+# reset 133393
+# reset 133455
+# reset 133517
+# reset 133579
+# reset 133641
+# reset 133703
+# reset 133765
+# reset 133827
+# reset 133889
+# reset 133951
+# reset 134013
+# reset 134075
+# reset 134137
+# reset 134199
+# reset 134261
+# reset 134323
+# reset 134385
+# reset 134447
+# reset 134509
+# reset 134571
+# reset 134633
+# reset 134695
+# reset 134757
+# reset 134819
+# reset 134881
+# reset 134943
+# reset 135005
+# reset 135067
+# reset 135129
+# reset 135191
+# reset 135253
+# reset 135315
+# reset 135377
+# reset 135439
+# reset 135501
+# reset 135563
+# reset 135625
+# reset 135687
+# reset 135749
+# reset 135811
+# reset 135873
+# reset 135935
+# reset 135997
+# reset 136059
+# reset 136121
+# reset 136183
+# reset 136245
+# reset 136307
+# reset 136369
+# reset 136431
+# reset 136493
+# reset 136555
+# reset 136617
+# reset 136679
+# reset 136741
+# reset 136803
+# reset 136865
+# reset 136927
+# reset 136989
+# reset 137051
+# reset 137113
+# reset 137175
+# reset 137237
+# reset 137299
+# reset 137361
+# reset 137423
+# reset 137485
+# reset 137547
+# reset 137609
+# reset 137671
+# reset 137733
+# reset 137795
+# reset 137857
+# reset 137919
+# reset 137981
+# reset 138043
+# reset 138105
+# reset 138167
+# reset 138229
+# reset 138291
+# reset 138353
+# reset 138415
+# reset 138477
+# reset 138539
+# reset 138601
+# reset 138663
+# reset 138725
+# reset 138787
+# reset 138849
+# reset 138911
+# reset 138973
+# reset 139035
+# reset 139097
+# reset 139159
+# reset 139221
+# reset 139283
+# reset 139345
+# reset 139407
+# reset 139469
+# reset 139531
+# reset 139593
+# transmitted 1 140833
+# transmitted 0 142073
+# transmitted 1 143313
+# transmitted 0 144553
+# transmitted 1 145793
+# transmitted 0 147033
+# transmitted 1 148273
+# transmitted 0 149513
+# transmitted 1 150753
+# transmitted 0 151993
+# transmitted 1 153233
+# transmitted 0 154473
+# transmitted 1 155713
+# transmitted 0 156953
+# transmitted 1 158193
+# transmitted 0 159433
+# transmitted 1 160673
+# transmitted 0 161913
+# transmitted 1 163153
+# transmitted 0 164393
+# transmitted 1 165633
+# transmitted 0 166873
+# transmitted 1 168113
+# transmitted 0 169353
+# reset pixel pointer 169415
+# transmitted 1 170593
+# transmitted 0 171833
+# transmitted 1 173073
+# transmitted 0 174313
+# transmitted 1 175553
+# transmitted 0 176793
+# transmitted 1 178033
+# transmitted 0 179273
+# transmitted 1 180513
+# transmitted 0 181753
+# transmitted 1 182993
+# transmitted 0 184233
+# transmitted 1 185473
+# transmitted 0 186713
+# transmitted 1 187953
+# transmitted 0 189193
+# transmitted 1 190433
+# transmitted 0 191673
+# transmitted 1 192913
+# transmitted 0 194153
+# transmitted 1 195393
+# transmitted 0 196633
+# transmitted 1 197873
+# transmitted 0 199113
+# reset pixel pointer 199175
+# transmitted 1 200353
+# transmitted 0 201593
+# transmitted 1 202833
+# transmitted 0 204073
+# transmitted 1 205313
+# transmitted 0 206553
+# transmitted 1 207793
+# transmitted 0 209033
+# transmitted 1 210273
+# transmitted 0 211513
+# transmitted 1 212753
+# transmitted 0 213993
+# transmitted 1 215233
+# transmitted 0 216473
+# transmitted 1 217713
+# transmitted 0 218953
+# transmitted 1 220193
+# transmitted 0 221433
+# transmitted 1 222673
+# transmitted 0 223913
+# transmitted 1 225153
+# transmitted 0 226393
+# transmitted 1 227633
+# transmitted 0 228873
+# reset pixel pointer 228935
+# reset 228997
+# reset 229059
+# reset 229121
+# reset 229183
+# reset 229245
+# reset 229307
+# reset 229369
+# reset 229431
+# reset 229493
+# reset 229555
+# reset 229617
+# reset 229679
+# reset 229741
+# reset 229803
+# reset 229865
+# reset 229927
+# reset 229989
+# reset 230051
+# reset 230113
+# reset 230175
+# reset 230237
+# reset 230299
+# reset 230361
+# reset 230423
+# reset 230485
+# reset 230547
+# reset 230609
+# reset 230671
+# reset 230733
+# reset 230795
+# reset 230857
+# reset 230919
+# reset 230981
+# reset 231043
+# reset 231105
+# reset 231167
+# reset 231229
+# reset 231291
+# reset 231353
+# reset 231415
+# reset 231477
+# reset 231539
+# reset 231601
+# reset 231663
+# reset 231725
+# reset 231787
+# reset 231849
+# reset 231911
+# reset 231973
+# reset 232035
+# reset 232097
+# reset 232159
+# reset 232221
+# reset 232283
+# reset 232345
+# reset 232407
+# reset 232469
+# reset 232531
+# reset 232593
+# reset 232655
+# reset 232717
+# reset 232779
+# reset 232841
+# reset 232903
+# reset 232965
+# reset 233027
+# reset 233089
+# reset 233151
+# reset 233213
+# reset 233275
+# reset 233337
+# reset 233399
+# reset 233461
+# reset 233523
+# reset 233585
+# reset 233647
+# reset 233709
+# reset 233771
+# reset 233833
+# reset 233895
+# reset 233957
+# reset 234019
+# reset 234081
+# reset 234143
+# reset 234205
+# reset 234267
+# reset 234329
+# reset 234391
+# reset 234453
+# reset 234515
+# reset 234577
+# reset 234639
+# reset 234701
+# reset 234763
+# reset 234825
+# reset 234887
+# reset 234949
+# reset 235011
+# reset 235073
+# reset 235135
+# reset 235197
+# reset 235259
+# reset 235321
+# reset 235383
+# reset 235445
+# reset 235507
+# reset 235569
+# reset 235631
+# reset 235693
+# reset 235755
+# reset 235817
+# reset 235879
+# reset 235941
+# reset 236003
+# reset 236065
+# reset 236127
+# reset 236189
+# reset 236251
+# reset 236313
+# reset 236375
+# reset 236437
+# reset 236499
+# reset 236561
+# reset 236623
+# reset 236685
+# reset 236747
+# reset 236809
+# reset 236871
+# reset 236933
+# reset 236995
+# reset 237057
+# reset 237119
+# reset 237181
+# reset 237243
+# reset 237305
+# reset 237367
+# reset 237429
+# reset 237491
+# reset 237553
+# reset 237615
+# reset 237677
+# reset 237739
+# reset 237801
+# reset 237863
+# reset 237925
+# reset 237987
+# reset 238049
+# reset 238111
+# reset 238173
+# reset 238235
+# reset 238297
+# reset 238359
+# reset 238421
+# reset 238483
+# reset 238545
+# reset 238607
+# reset 238669
+# reset 238731
+# reset 238793
+# reset 238855
+# reset 238917
+# reset 238979
+# reset 239041
+# reset 239103
+# reset 239165
+# reset 239227
+# reset 239289
+# reset 239351
+# reset 239413
+# reset 239475
+# reset 239537
+# reset 239599
+# reset 239661
+# reset 239723
+# reset 239785
+# reset 239847
+# reset 239909
+# reset 239971
+# reset 240033
+# reset 240095
+# reset 240157
+# reset 240219
+# reset 240281
+# reset 240343
+# reset 240405
+# reset 240467
+# reset 240529
+# reset 240591
+# reset 240653
+# reset 240715
+# reset 240777
+# reset 240839
+# reset 240901
+# reset 240963
+# reset 241025
+# reset 241087
+# reset 241149
+# reset 241211
+# reset 241273
+# reset 241335
+# reset 241397
+# reset 241459
+# reset 241521
+# reset 241583
+# reset 241645
+# reset 241707
+# reset 241769
+# reset 241831
+# reset 241893
+# reset 241955
+# reset 242017
+# reset 242079
+# reset 242141
+# reset 242203
+# reset 242265
+# reset 242327
+# reset 242389
+# reset 242451
+# reset 242513
+# reset 242575
+# reset 242637
+# reset 242699
+# reset 242761
+# reset 242823
+# reset 242885
+# reset 242947
+# reset 243009
+# reset 243071
+# reset 243133
+# reset 243195
+# reset 243257
+# reset 243319
+# reset 243381
+# reset 243443
+# reset 243505
+# reset 243567
+# reset 243629
+# reset 243691
+# reset 243753
+# reset 243815
+# reset 243877
+# reset 243939
+# reset 244001
+# reset 244063
+# reset 244125
+# reset 244187
+# reset 244249
+# reset 244311
+# reset 244373
+# reset 244435
+# reset 244497
+# reset 244559
+# reset 244621
+# reset 244683
+# reset 244745
+# reset 244807
+# reset 244869
+# reset 244931
+# reset 244993
+# reset 245055
+# reset 245117
+# reset 245179
+# reset 245241
+# reset 245303
+# reset 245365
+# reset 245427
+# reset 245489
+# reset 245551
+# reset 245613
+# reset 245675
+# reset 245737
+# reset 245799
+# reset 245861
+# reset 245923
+# reset 245985
+# reset 246047
+# reset 246109
+# reset 246171
+# reset 246233
+# reset 246295
+# reset 246357
+# reset 246419
+# reset 246481
+# reset 246543
+# reset 246605
+# reset 246667
+# reset 246729
+# reset 246791
+# reset 246853
+# reset 246915
+# reset 246977
+# reset 247039
+# reset 247101
+# reset 247163
+# reset 247225
+# reset 247287
+# reset 247349
+# reset 247411
+# reset 247473
+# reset 247535
+# reset 247597
+# reset 247659
+# reset 247721
+# reset 247783
+# reset 247845
+# reset 247907
+# reset 247969
+# reset 248031
+# reset 248093
+# reset 248155
+# reset 248217
+# reset 248279
+# reset 248341
+# reset 248403
+# reset 248465
+# reset 248527
+# reset 248589
+# reset 248651
+# reset 248713
+# reset 248775
+# reset 248837
+# reset 248899
+# reset 248961
+# reset 249023
+# reset 249085
+# reset 249147
+# reset 249209
+# reset 249271
+# reset 249333
+# reset 249395
+# reset 249457
+# reset 249519
+# reset 249581
+# reset 249643
+# reset 249705
+# reset 249767
+# reset 249829
+# reset 249891
+# reset 249953
+# reset 250015
+# reset 250077
+# reset 250139
+# reset 250201
+# reset 250263
+# reset 250325
+# reset 250387
+# reset 250449
+# reset 250511
+# reset 250573
+# reset 250635
+# reset 250697
+# reset 250759
+# reset 250821
+# reset 250883
+# reset 250945
+# reset 251007
+# reset 251069
+# reset 251131
+# reset 251193
+# reset 251255
+# reset 251317
+# reset 251379
+# reset 251441
+# reset 251503
+# reset 251565
+# reset 251627
+# reset 251689
+# reset 251751
+# reset 251813
+# reset 251875
+# reset 251937
+# reset 251999
+# reset 252061
+# reset 252123
+# reset 252185
+# reset 252247
+# reset 252309
+# reset 252371
+# reset 252433
+# reset 252495
+# reset 252557
+# reset 252619
+# reset 252681
+# reset 252743
+# reset 252805
+# reset 252867
+# reset 252929
+# reset 252991
+# reset 253053
+# reset 253115
+# reset 253177
+# reset 253239
+# reset 253301
+# reset 253363
+# reset 253425
+# reset 253487
+# reset 253549
+# reset 253611
+# reset 253673
+# reset 253735
+# reset 253797
+# reset 253859
+# reset 253921
+# reset 253983
+# reset 254045
+# reset 254107
+# reset 254169
+# reset 254231
+# reset 254293
+# reset 254355
+# reset 254417
+# reset 254479
+# reset 254541
+# reset 254603
+# reset 254665
+# reset 254727
+# reset 254789
+# reset 254851
+# reset 254913
+# reset 254975
+# reset 255037
+# reset 255099
+# reset 255161
+# reset 255223
+# reset 255285
+# reset 255347
+# reset 255409
+# reset 255471
+# reset 255533
+# reset 255595
+# reset 255657
+# reset 255719
+# reset 255781
+# reset 255843
+# reset 255905
+# reset 255967
+# reset 256029
+# reset 256091
+# reset 256153
+# reset 256215
+# reset 256277
+# reset 256339
+# reset 256401
+# reset 256463
+# reset 256525
+# reset 256587
+# reset 256649
+# reset 256711
+# reset 256773
+# reset 256835
+# reset 256897
+# reset 256959
+# reset 257021
+# reset 257083
+# reset 257145
+# reset 257207
+# reset 257269
+# reset 257331
+# reset 257393
+# reset 257455
+# reset 257517
+# reset 257579
+# reset 257641
+# reset 257703
+# reset 257765
+# reset 257827
+# reset 257889
+# reset 257951
+# reset 258013
+# reset 258075
+# reset 258137
+# reset 258199
+# reset 258261
+# reset 258323
+# reset 258385
+# reset 258447
+# reset 258509
+# reset 258571
+# reset 258633
+# reset 258695
+# reset 258757
+# reset 258819
+# reset 258881
+# reset 258943
+# reset 259005
+# reset 259067
+# reset 259129
+# reset 259191
+# reset 259253
+# reset 259315
+# reset 259377
+# reset 259439
+# reset 259501
+# reset 259563
+# reset 259625
+# reset 259687
+# reset 259749
+# reset 259811
+# reset 259873
+# reset 259935
+# reset 259997
+# reset 260059
+# reset 260121
+# reset 260183
+# reset 260245
+# reset 260307
+# reset 260369
+# reset 260431
+# reset 260493
+# reset 260555
+# reset 260617
+# reset 260679
+# reset 260741
+# reset 260803
+# reset 260865
+# reset 260927
+# reset 260989
+# reset 261051
+# reset 261113
+# reset 261175
+# reset 261237
+# reset 261299
+# reset 261361
+# reset 261423
+# reset 261485
+# reset 261547
+# reset 261609
+# reset 261671
+# reset 261733
+# reset 261795
+# reset 261857
+# reset 261919
+# reset 261981
+# reset 262043
+# reset 262105
+# reset 262167
+# reset 262229
+# reset 262291
+# reset 262353
+# reset 262415
+# reset 262477
+# reset 262539
+# reset 262601
+# reset 262663
+# reset 262725
+# reset 262787
+# reset 262849
+# reset 262911
+# reset 262973
+# reset 263035
+# reset 263097
+# reset 263159
+# reset 263221
+# reset 263283
+# reset 263345
+# reset 263407
+# reset 263469
+# reset 263531
+# reset 263593
+# reset 263655
+# reset 263717
+# reset 263779
+# reset 263841
+# reset 263903
+# reset 263965
+# reset 264027
+# reset 264089
+# reset 264151
+# reset 264213
+# reset 264275
+# reset 264337
+# reset 264399
+# reset 264461
+# reset 264523
+# reset 264585
+# reset 264647
+# reset 264709
+# reset 264771
+# reset 264833
+# reset 264895
+# reset 264957
+# reset 265019
+# reset 265081
+# reset 265143
+# reset 265205
+# reset 265267
+# reset 265329
+# reset 265391
+# reset 265453
+# reset 265515
+# reset 265577
+# reset 265639
+# reset 265701
+# reset 265763
+# reset 265825
+# reset 265887
+# reset 265949
+# reset 266011
+# reset 266073
+# reset 266135
+# reset 266197
+# reset 266259
+# reset 266321
+# reset 266383
+# reset 266445
+# reset 266507
+# reset 266569
+# reset 266631
+# reset 266693
+# reset 266755
+# reset 266817
+# reset 266879
+# reset 266941
+# reset 267003
+# reset 267065
+# reset 267127
+# reset 267189
+# reset 267251
+# reset 267313
+# reset 267375
+# reset 267437
+# reset 267499
+# reset 267561
+# reset 267623
+# reset 267685
+# reset 267747
+# reset 267809
+# reset 267871
+# reset 267933
+# reset 267995
+# reset 268057
+# reset 268119
+# reset 268181
+# reset 268243
+# reset 268305
+# reset 268367
+# reset 268429
+# reset 268491
+# reset 268553
+# reset 268615
+# reset 268677
+# reset 268739
+# reset 268801
+# reset 268863
+# reset 268925
+# reset 268987
+# reset 269049
+# reset 269111
+# reset 269173
+# reset 269235
+# reset 269297
+# reset 269359
+# reset 269421
+# reset 269483
+# reset 269545
+# reset 269607
+# reset 269669
+# reset 269731
+# reset 269793
+# reset 269855
+# reset 269917
+# reset 269979
+# reset 270041
+# reset 270103
+# reset 270165
+# reset 270227
+# reset 270289
+# reset 270351
+# reset 270413
+# reset 270475
+# reset 270537
+# reset 270599
+# reset 270661
+# reset 270723
+# reset 270785
+# reset 270847
+# reset 270909
+# reset 270971
+# reset 271033
+# reset 271095
+# reset 271157
+# reset 271219
+# reset 271281
+# reset 271343
+# reset 271405
+# reset 271467
+# reset 271529
+# reset 271591
+# reset 271653
+# reset 271715
+# reset 271777
+# reset 271839
+# reset 271901
+# reset 271963
+# reset 272025
+# reset 272087
+# reset 272149
+# reset 272211
+# reset 272273
+# reset 272335
+# reset 272397
+# reset 272459
+# reset 272521
+# reset 272583
+# reset 272645
+# reset 272707
+# reset 272769
+# reset 272831
+# reset 272893
+# reset 272955
+# reset 273017
+# reset 273079
+# reset 273141
+# reset 273203
+# reset 273265
+# reset 273327
+# reset 273389
+# reset 273451
+# reset 273513
+# reset 273575
+# reset 273637
+# reset 273699
+# reset 273761
+# reset 273823
+# reset 273885
+# reset 273947
+# reset 274009
+# reset 274071
+# reset 274133
+# reset 274195
+# reset 274257
+# reset 274319
+# reset 274381
+# reset 274443
+# reset 274505
+# reset 274567
+# reset 274629
+# reset 274691
+# reset 274753
+# reset 274815
+# reset 274877
+# reset 274939
+# reset 275001
+# reset 275063
+# reset 275125
+# reset 275187
+# reset 275249
+# reset 275311
+# reset 275373
+# reset 275435
+# reset 275497
+# reset 275559
+# reset 275621
+# reset 275683
+# reset 275745
+# reset 275807
+# reset 275869
+# reset 275931
+# reset 275993
+# reset 276055
+# reset 276117
+# reset 276179
+# reset 276241
+# reset 276303
+# reset 276365
+# reset 276427
+# reset 276489
+# reset 276551
+# reset 276613
+# reset 276675
+# reset 276737
+# reset 276799
+# reset 276861
+# reset 276923
+# reset 276985
+# reset 277047
+# reset 277109
+# reset 277171
+# reset 277233
+# reset 277295
+# reset 277357
+# reset 277419
+# reset 277481
+# reset 277543
+# reset 277605
+# reset 277667
+# reset 277729
+# reset 277791
+# reset 277853
+# reset 277915
+# reset 277977
+# reset 278039
+# reset 278101
+# reset 278163
+# reset 278225
+# reset 278287
+# reset 278349
+# reset 278411
+# reset 278473
+# reset 278535
+# reset 278597
+# reset 278659
+# reset 278721
+# reset 278783
+# reset 278845
+# reset 278907
+# reset 278969
+# reset 279031
+# reset 279093
+# reset 279155
+# reset 279217
+# transmitted 1 280457
+# transmitted 0 281697
+# transmitted 1 282937
+# transmitted 0 284177
+# transmitted 1 285417
+# transmitted 0 286657
+# transmitted 1 287897
+# transmitted 0 289137
+# transmitted 1 290377
+# transmitted 0 291617
+# transmitted 1 292857
+# transmitted 0 294097
+# transmitted 1 295337
+# transmitted 0 296577
+# transmitted 1 297817
+# transmitted 0 299057
+# transmitted 1 300297
+# transmitted 0 301537
+# transmitted 1 302777
+# transmitted 0 304017
+# transmitted 1 305257
+# transmitted 0 306497
+# transmitted 1 307737
+# transmitted 0 308977
+# reset pixel pointer 309039
+# transmitted 1 310217
+# transmitted 0 311457
+# transmitted 1 312697
+# transmitted 0 313937
+# transmitted 1 315177
+# transmitted 0 316417
+# transmitted 1 317657
+# transmitted 0 318897
+# transmitted 1 320137
+# transmitted 0 321377
+# transmitted 1 322617
+# transmitted 0 323857
+# transmitted 1 325097
+# transmitted 0 326337
+# transmitted 1 327577
+# transmitted 0 328817
+# transmitted 1 330057
+# transmitted 0 331297
+# transmitted 1 332537
+# transmitted 0 333777
+# transmitted 1 335017
+# transmitted 0 336257
+# transmitted 1 337497
+# transmitted 0 338737
+# reset pixel pointer 338799
+# transmitted 1 339977
+# transmitted 0 341217
+# transmitted 1 342457
+# transmitted 0 343697
+# transmitted 1 344937
+# transmitted 0 346177
+# transmitted 1 347417
+# transmitted 0 348657
+# transmitted 1 349897
+# transmitted 0 351137
+# transmitted 1 352377
+# transmitted 0 353617
+# transmitted 1 354857
+# transmitted 0 356097
+# transmitted 1 357337
+# transmitted 0 358577
+# transmitted 1 359817
+# transmitted 0 361057
+# transmitted 1 362297
+# transmitted 0 363537
+# transmitted 1 364777
+# transmitted 0 366017
+# transmitted 1 367257
+# transmitted 0 368497
+# reset pixel pointer 368559
+# reset 368621
+# reset 368683
+# reset 368745
+# reset 368807
+# reset 368869
+# reset 368931
+# reset 368993
+# reset 369055
+# reset 369117
+# reset 369179
+# reset 369241
+# reset 369303
+# reset 369365
+# reset 369427
+# reset 369489
+# reset 369551
+# reset 369613
+# reset 369675
+# reset 369737
+# reset 369799
+# reset 369861
+# reset 369923
+# reset 369985
+# reset 370047
+# reset 370109
+# reset 370171
+# reset 370233
+# reset 370295
+# reset 370357
+# reset 370419
+# reset 370481
+# reset 370543
+# reset 370605
+# reset 370667
+# reset 370729
+# reset 370791
+# reset 370853
+# reset 370915
+# reset 370977
+# reset 371039
+# reset 371101
+# reset 371163
+# reset 371225
+# reset 371287
+# reset 371349
+# reset 371411
+# reset 371473
+# reset 371535
+# reset 371597
+# reset 371659
+# reset 371721
+# reset 371783
+# reset 371845
+# reset 371907
+# reset 371969
+# reset 372031
+# reset 372093
+# reset 372155
+# reset 372217
+# reset 372279
+# reset 372341
+# reset 372403
+# reset 372465
+# reset 372527
+# reset 372589
+# reset 372651
+# reset 372713
+# reset 372775
+# reset 372837
+# reset 372899
+# reset 372961
+# reset 373023
+# reset 373085
+# reset 373147
+# reset 373209
+# reset 373271
+# reset 373333
+# reset 373395
+# reset 373457
+# reset 373519
+# reset 373581
+# reset 373643
+# reset 373705
+# reset 373767
+# reset 373829
+# reset 373891
+# reset 373953
+# reset 374015
+# reset 374077
+# reset 374139
+# reset 374201
+# reset 374263
+# reset 374325
+# reset 374387
+# reset 374449
+# reset 374511
+# reset 374573
+# reset 374635
+# reset 374697
+# reset 374759
+# reset 374821
+# reset 374883
+# reset 374945
+# reset 375007
+# reset 375069
+# reset 375131
+# reset 375193
+# reset 375255
+# reset 375317
+# reset 375379
+# reset 375441
+# reset 375503
+# reset 375565
+# reset 375627
+# reset 375689
+# reset 375751
+# reset 375813
+# reset 375875
+# reset 375937
+# reset 375999
+# reset 376061
+# reset 376123
+# reset 376185
+# reset 376247
+# reset 376309
+# reset 376371
+# reset 376433
+# reset 376495
+# reset 376557
+# reset 376619
+# reset 376681
+# reset 376743
+# reset 376805
+# reset 376867
+# reset 376929
+# reset 376991
+# reset 377053
+# reset 377115
+# reset 377177
+# reset 377239
+# reset 377301
+# reset 377363
+# reset 377425
+# reset 377487
+# reset 377549
+# reset 377611
+# reset 377673
+# reset 377735
+# reset 377797
+# reset 377859
+# reset 377921
+# reset 377983
+# reset 378045
+# reset 378107
+# reset 378169
+# reset 378231
+# reset 378293
+# reset 378355
+# reset 378417
+# reset 378479
+# reset 378541
+# reset 378603
+# reset 378665
+# reset 378727
+# reset 378789
+# reset 378851
+# reset 378913
+# reset 378975
+# reset 379037
+# reset 379099
+# reset 379161
+# reset 379223
+# reset 379285
+# reset 379347
+# reset 379409
+# reset 379471
+# reset 379533
+# reset 379595
+# reset 379657
+# reset 379719
+# reset 379781
+# reset 379843
+# reset 379905
+# reset 379967
+# reset 380029
+# reset 380091
+# reset 380153
+# reset 380215
+# reset 380277
+# reset 380339
+# reset 380401
+# reset 380463
+# reset 380525
+# reset 380587
+# reset 380649
+# reset 380711
+# reset 380773
+# reset 380835
+# reset 380897
+# reset 380959
+# reset 381021
+# reset 381083
+# reset 381145
+# reset 381207
+# reset 381269
+# reset 381331
+# reset 381393
+# reset 381455
+# reset 381517
+# reset 381579
+# reset 381641
+# reset 381703
+# reset 381765
+# reset 381827
+# reset 381889
+# reset 381951
+# reset 382013
+# reset 382075
+# reset 382137
+# reset 382199
+# reset 382261
+# reset 382323
+# reset 382385
+# reset 382447
+# reset 382509
+# reset 382571
+# reset 382633
+# reset 382695
+# reset 382757
+# reset 382819
+# reset 382881
+# reset 382943
+# reset 383005
+# reset 383067
+# reset 383129
+# reset 383191
+# reset 383253
+# reset 383315
+# reset 383377
+# reset 383439
+# reset 383501
+# reset 383563
+# reset 383625
+# reset 383687
+# reset 383749
+# reset 383811
+# reset 383873
+# reset 383935
+# reset 383997
+# reset 384059
+# reset 384121
+# reset 384183
+# reset 384245
+# reset 384307
+# reset 384369
+# reset 384431
+# reset 384493
+# reset 384555
+# reset 384617
+# reset 384679
+# reset 384741
+# reset 384803
+# reset 384865
+# reset 384927
+# reset 384989
+# reset 385051
+# reset 385113
+# reset 385175
+# reset 385237
+# reset 385299
+# reset 385361
+# reset 385423
+# reset 385485
+# reset 385547
+# reset 385609
+# reset 385671
+# reset 385733
+# reset 385795
+# reset 385857
+# reset 385919
+# reset 385981
+# reset 386043
+# reset 386105
+# reset 386167
+# reset 386229
+# reset 386291
+# reset 386353
+# reset 386415
+# reset 386477
+# reset 386539
+# reset 386601
+# reset 386663
+# reset 386725
+# reset 386787
+# reset 386849
+# reset 386911
+# reset 386973
+# reset 387035
+# reset 387097
+# reset 387159
+# reset 387221
+# reset 387283
+# reset 387345
+# reset 387407
+# reset 387469
+# reset 387531
+# reset 387593
+# reset 387655
+# reset 387717
+# reset 387779
+# reset 387841
+# reset 387903
+# reset 387965
+# reset 388027
+# reset 388089
+# reset 388151
+# reset 388213
+# reset 388275
+# reset 388337
+# reset 388399
+# reset 388461
+# reset 388523
+# reset 388585
+# reset 388647
+# reset 388709
+# reset 388771
+# reset 388833
+# reset 388895
+# reset 388957
+# reset 389019
+# reset 389081
+# reset 389143
+# reset 389205
+# reset 389267
+# reset 389329
+# reset 389391
+# reset 389453
+# reset 389515
+# reset 389577
+# reset 389639
+# reset 389701
+# reset 389763
+# reset 389825
+# reset 389887
+# reset 389949
+# reset 390011
+# reset 390073
+# reset 390135
+# reset 390197
+# reset 390259
+# reset 390321
+# reset 390383
+# reset 390445
+# reset 390507
+# reset 390569
+# reset 390631
+# reset 390693
+# reset 390755
+# reset 390817
+# reset 390879
+# reset 390941
+# reset 391003
+# reset 391065
+# reset 391127
+# reset 391189
+# reset 391251
+# reset 391313
+# reset 391375
+# reset 391437
+# reset 391499
+# reset 391561
+# reset 391623
+# reset 391685
+# reset 391747
+# reset 391809
+# reset 391871
+# reset 391933
+# reset 391995
+# reset 392057
+# reset 392119
+# reset 392181
+# reset 392243
+# reset 392305
+# reset 392367
+# reset 392429
+# reset 392491
+# reset 392553
+# reset 392615
+# reset 392677
+# reset 392739
+# reset 392801
+# reset 392863
+# reset 392925
+# reset 392987
+# reset 393049
+# reset 393111
+# reset 393173
+# reset 393235
+# reset 393297
+# reset 393359
+# reset 393421
+# reset 393483
+# reset 393545
+# reset 393607
+# reset 393669
+# reset 393731
+# reset 393793
+# reset 393855
+# reset 393917
+# reset 393979
+# reset 394041
+# reset 394103
+# reset 394165
+# reset 394227
+# reset 394289
+# reset 394351
+# reset 394413
+# reset 394475
+# reset 394537
+# reset 394599
+# reset 394661
+# reset 394723
+# reset 394785
+# reset 394847
+# reset 394909
+# reset 394971
+# reset 395033
+# reset 395095
+# reset 395157
+# reset 395219
+# reset 395281
+# reset 395343
+# reset 395405
+# reset 395467
+# reset 395529
+# reset 395591
+# reset 395653
+# reset 395715
+# reset 395777
+# reset 395839
+# reset 395901
+# reset 395963
+# reset 396025
+# reset 396087
+# reset 396149
+# reset 396211
+# reset 396273
+# reset 396335
+# reset 396397
+# reset 396459
+# reset 396521
+# reset 396583
+# reset 396645
+# reset 396707
+# reset 396769
+# reset 396831
+# reset 396893
+# reset 396955
+# reset 397017
+# reset 397079
+# reset 397141
+# reset 397203
+# reset 397265
+# reset 397327
+# reset 397389
+# reset 397451
+# reset 397513
+# reset 397575
+# reset 397637
+# reset 397699
+# reset 397761
+# reset 397823
+# reset 397885
+# reset 397947
+# reset 398009
+# reset 398071
+# reset 398133
+# reset 398195
+# reset 398257
+# reset 398319
+# reset 398381
+# reset 398443
+# reset 398505
+# reset 398567
+# reset 398629
+# reset 398691
+# reset 398753
+# reset 398815
+# reset 398877
+# reset 398939
+# reset 399001
+# reset 399063
+# reset 399125
+# reset 399187
+# reset 399249
+# reset 399311
+# reset 399373
+# reset 399435
+# reset 399497
+# reset 399559
+# reset 399621
+# reset 399683
+# reset 399745
+# reset 399807
+# reset 399869
+# reset 399931
+# reset 399993
+restart -f
+# Closing VCD file "waves.vcd"
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmitted 1 1209
+# transmitted 0 2449
+# transmitted 1 3689
+# transmitted 0 4929
+# transmitted 1 6169
+# transmitted 0 7409
+# transmitted 1 8649
+# transmitted 0 9889
+# transmitted 1 11129
+# transmitted 0 12369
+# transmitted 1 13609
+# transmitted 0 14849
+# transmitted 1 16089
+# transmitted 0 17329
+# transmitted 1 18569
+# transmitted 0 19809
+# transmitted 1 21049
+# transmitted 0 22289
+# transmitted 1 23529
+# transmitted 0 24769
+# transmitted 1 26009
+# transmitted 0 27249
+# transmitted 1 28489
+# transmitted 0 29729
+# reset pixel pointer 29791
+# transmitted 1 30969
+# transmitted 0 32209
+# transmitted 1 33449
+# transmitted 0 34689
+# transmitted 1 35929
+# transmitted 0 37169
+# transmitted 1 38409
+# transmitted 0 39649
+# transmitted 1 40889
+# transmitted 0 42129
+# transmitted 1 43369
+# transmitted 0 44609
+# transmitted 1 45849
+# transmitted 0 47089
+# transmitted 1 48329
+# transmitted 0 49569
+# transmitted 1 50809
+# transmitted 0 52049
+# transmitted 1 53289
+# transmitted 0 54529
+# transmitted 1 55769
+# transmitted 0 57009
+# transmitted 1 58249
+# transmitted 0 59489
+# reset pixel pointer 59551
+# transmitted 1 60729
+# transmitted 0 61969
+# transmitted 1 63209
+# transmitted 0 64449
+# transmitted 1 65689
+# transmitted 0 66929
+# transmitted 1 68169
+# transmitted 0 69409
+# transmitted 1 70649
+# transmitted 0 71889
+# transmitted 1 73129
+# transmitted 0 74369
+# transmitted 1 75609
+# transmitted 0 76849
+# transmitted 1 78089
+# transmitted 0 79329
+# transmitted 1 80569
+# transmitted 0 81809
+# transmitted 1 83049
+# transmitted 0 84289
+# transmitted 1 85529
+# transmitted 0 86769
+# transmitted 1 88009
+# transmitted 0 89249
+# reset pixel pointer 89311
+# reset 89373
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmitted 1 1209
+# transmitted 0 2449
+# transmitted 1 3689
+# transmitted 0 4929
+# transmitted 1 6169
+# transmitted 0 7409
+# transmitted 1 8649
+# transmitted 0 9889
+# transmitted 1 11129
+# transmitted 0 12369
+# transmitted 1 13609
+# transmitted 0 14849
+# transmitted 1 16089
+# transmitted 0 17329
+# transmitted 1 18569
+# transmitted 0 19809
+# transmitted 1 21049
+# transmitted 0 22289
+# transmitted 1 23529
+# transmitted 0 24769
+# transmitted 1 26009
+# transmitted 0 27249
+# transmitted 1 28489
+# transmitted 0 29729
+# reset pixel pointer 29791
+# transmitted 1 30969
+# transmitted 0 32209
+# transmitted 1 33449
+# transmitted 0 34689
+# transmitted 1 35929
+# transmitted 0 37169
+# transmitted 1 38409
+# transmitted 0 39649
+# transmitted 1 40889
+# transmitted 0 42129
+# transmitted 1 43369
+# transmitted 0 44609
+# transmitted 1 45849
+# transmitted 0 47089
+# transmitted 1 48329
+# transmitted 0 49569
+# transmitted 1 50809
+# transmitted 0 52049
+# transmitted 1 53289
+# transmitted 0 54529
+# transmitted 1 55769
+# transmitted 0 57009
+# transmitted 1 58249
+# transmitted 0 59489
+# reset pixel pointer 59551
+# reset 59613
+# reset 59675
+# reset 59737
+# reset 59799
+# reset 59861
+# reset 59923
+# reset 59985
+# reset 60047
+# reset 60109
+# reset 60171
+# reset 60233
+# reset 60295
+# reset 60357
+# reset 60419
+# reset 60481
+# reset 60543
+# reset 60605
+# reset 60667
+# reset 60729
+# reset 60791
+# reset 60853
+# reset 60915
+# reset 60977
+# reset 61039
+# reset 61101
+# reset 61163
+# reset 61225
+# reset 61287
+# reset 61349
+# reset 61411
+# reset 61473
+# reset 61535
+# reset 61597
+# reset 61659
+# reset 61721
+# reset 61783
+# reset 61845
+# reset 61907
+# reset 61969
+# reset 62031
+# reset 62093
+# reset 62155
+# reset 62217
+# reset 62279
+# reset 62341
+# reset 62403
+# reset 62465
+# reset 62527
+# reset 62589
+# reset 62651
+# reset 62713
+# reset 62775
+# reset 62837
+# reset 62899
+# reset 62961
+# reset 63023
+# reset 63085
+# reset 63147
+# reset 63209
+# reset 63271
+# reset 63333
+# reset 63395
+# reset 63457
+# reset 63519
+# reset 63581
+# reset 63643
+# reset 63705
+# reset 63767
+# reset 63829
+# reset 63891
+# reset 63953
+# reset 64015
+# reset 64077
+# reset 64139
+# reset 64201
+# reset 64263
+# reset 64325
+# reset 64387
+# reset 64449
+# reset 64511
+# reset 64573
+# reset 64635
+# reset 64697
+# reset 64759
+# reset 64821
+# reset 64883
+# reset 64945
+# reset 65007
+# reset 65069
+# reset 65131
+# reset 65193
+# reset 65255
+# reset 65317
+# reset 65379
+# reset 65441
+# reset 65503
+# reset 65565
+# reset 65627
+# reset 65689
+# reset 65751
+# reset 65813
+# reset 65875
+# reset 65937
+# reset 65999
+# reset 66061
+# reset 66123
+# reset 66185
+# reset 66247
+# reset 66309
+# reset 66371
+# reset 66433
+# reset 66495
+# reset 66557
+# reset 66619
+# reset 66681
+# reset 66743
+# reset 66805
+# reset 66867
+# reset 66929
+# reset 66991
+# reset 67053
+# reset 67115
+# reset 67177
+# reset 67239
+# reset 67301
+# reset 67363
+# reset 67425
+# reset 67487
+# reset 67549
+# reset 67611
+# reset 67673
+# reset 67735
+# reset 67797
+# reset 67859
+# reset 67921
+# reset 67983
+# reset 68045
+# reset 68107
+# reset 68169
+# reset 68231
+# reset 68293
+# reset 68355
+# reset 68417
+# reset 68479
+# reset 68541
+# reset 68603
+# reset 68665
+# reset 68727
+# reset 68789
+# reset 68851
+# reset 68913
+# reset 68975
+# reset 69037
+# reset 69099
+# reset 69161
+# reset 69223
+# reset 69285
+# reset 69347
+# reset 69409
+# reset 69471
+# reset 69533
+# reset 69595
+# reset 69657
+# reset 69719
+# reset 69781
+# reset 69843
+# reset 69905
+# reset 69967
+# reset 70029
+# reset 70091
+# reset 70153
+# reset 70215
+# reset 70277
+# reset 70339
+# reset 70401
+# reset 70463
+# reset 70525
+# reset 70587
+# reset 70649
+# reset 70711
+# reset 70773
+# reset 70835
+# reset 70897
+# reset 70959
+# reset 71021
+# reset 71083
+# reset 71145
+# reset 71207
+# reset 71269
+# reset 71331
+# reset 71393
+# reset 71455
+# reset 71517
+# reset 71579
+# reset 71641
+# reset 71703
+# reset 71765
+# reset 71827
+# reset 71889
+# reset 71951
+# reset 72013
+# reset 72075
+# reset 72137
+# reset 72199
+# reset 72261
+# reset 72323
+# reset 72385
+# reset 72447
+# reset 72509
+# reset 72571
+# reset 72633
+# reset 72695
+# reset 72757
+# reset 72819
+# reset 72881
+# reset 72943
+# reset 73005
+# reset 73067
+# reset 73129
+# reset 73191
+# reset 73253
+# reset 73315
+# reset 73377
+# reset 73439
+# reset 73501
+# reset 73563
+# reset 73625
+# reset 73687
+# reset 73749
+# reset 73811
+# reset 73873
+# reset 73935
+# reset 73997
+# reset 74059
+# reset 74121
+# reset 74183
+# reset 74245
+# reset 74307
+# reset 74369
+# reset 74431
+# reset 74493
+# reset 74555
+# reset 74617
+# reset 74679
+# reset 74741
+# reset 74803
+# reset 74865
+# reset 74927
+# reset 74989
+# reset 75051
+# reset 75113
+# reset 75175
+# reset 75237
+# reset 75299
+# reset 75361
+# reset 75423
+# reset 75485
+# reset 75547
+# reset 75609
+# reset 75671
+# reset 75733
+# reset 75795
+# reset 75857
+# reset 75919
+# reset 75981
+# reset 76043
+# reset 76105
+# reset 76167
+# reset 76229
+# reset 76291
+# reset 76353
+# reset 76415
+# reset 76477
+# reset 76539
+# reset 76601
+# reset 76663
+# reset 76725
+# reset 76787
+# reset 76849
+# reset 76911
+# reset 76973
+# reset 77035
+# reset 77097
+# reset 77159
+# reset 77221
+# reset 77283
+# reset 77345
+# reset 77407
+# reset 77469
+# reset 77531
+# reset 77593
+# reset 77655
+# reset 77717
+# reset 77779
+# reset 77841
+# reset 77903
+# reset 77965
+# reset 78027
+# reset 78089
+# reset 78151
+# reset 78213
+# reset 78275
+# reset 78337
+# reset 78399
+# reset 78461
+# reset 78523
+# reset 78585
+# reset 78647
+# reset 78709
+# reset 78771
+# reset 78833
+# reset 78895
+# reset 78957
+# reset 79019
+# reset 79081
+# reset 79143
+# reset 79205
+# reset 79267
+# reset 79329
+# reset 79391
+# reset 79453
+# reset 79515
+# reset 79577
+# reset 79639
+# reset 79701
+# reset 79763
+# reset 79825
+# reset 79887
+# reset 79949
+# reset 80011
+# reset 80073
+# reset 80135
+# reset 80197
+# reset 80259
+# reset 80321
+# reset 80383
+# reset 80445
+# reset 80507
+# reset 80569
+# reset 80631
+# reset 80693
+# reset 80755
+# reset 80817
+# reset 80879
+# reset 80941
+# reset 81003
+# reset 81065
+# reset 81127
+# reset 81189
+# reset 81251
+# reset 81313
+# reset 81375
+# reset 81437
+# reset 81499
+# reset 81561
+# reset 81623
+# reset 81685
+# reset 81747
+# reset 81809
+# reset 81871
+# reset 81933
+# reset 81995
+# reset 82057
+# reset 82119
+# reset 82181
+# reset 82243
+# reset 82305
+# reset 82367
+# reset 82429
+# reset 82491
+# reset 82553
+# reset 82615
+# reset 82677
+# reset 82739
+# reset 82801
+# reset 82863
+# reset 82925
+# reset 82987
+# reset 83049
+# reset 83111
+# reset 83173
+# reset 83235
+# reset 83297
+# reset 83359
+# reset 83421
+# reset 83483
+# reset 83545
+# reset 83607
+# reset 83669
+# reset 83731
+# reset 83793
+# reset 83855
+# reset 83917
+# reset 83979
+# reset 84041
+# reset 84103
+# reset 84165
+# reset 84227
+# reset 84289
+# reset 84351
+# reset 84413
+# reset 84475
+# reset 84537
+# reset 84599
+# reset 84661
+# reset 84723
+# reset 84785
+# reset 84847
+# reset 84909
+# reset 84971
+# reset 85033
+# reset 85095
+# reset 85157
+# reset 85219
+# reset 85281
+# reset 85343
+# reset 85405
+# reset 85467
+# reset 85529
+# reset 85591
+# reset 85653
+# reset 85715
+# reset 85777
+# reset 85839
+# reset 85901
+# reset 85963
+# reset 86025
+# reset 86087
+# reset 86149
+# reset 86211
+# reset 86273
+# reset 86335
+# reset 86397
+# reset 86459
+# reset 86521
+# reset 86583
+# reset 86645
+# reset 86707
+# reset 86769
+# reset 86831
+# reset 86893
+# reset 86955
+# reset 87017
+# reset 87079
+# reset 87141
+# reset 87203
+# reset 87265
+# reset 87327
+# reset 87389
+# reset 87451
+# reset 87513
+# reset 87575
+# reset 87637
+# reset 87699
+# reset 87761
+# reset 87823
+# reset 87885
+# reset 87947
+# reset 88009
+# reset 88071
+# reset 88133
+# reset 88195
+# reset 88257
+# reset 88319
+# reset 88381
+# reset 88443
+# reset 88505
+# reset 88567
+# reset 88629
+# reset 88691
+# reset 88753
+# reset 88815
+# reset 88877
+# reset 88939
+# reset 89001
+# reset 89063
+# reset 89125
+# reset 89187
+# reset 89249
+# reset 89311
+# reset 89373
+run
+# reset 89435
+# reset 89497
+# reset 89559
+# reset 89621
+# reset 89683
+# reset 89745
+# reset 89807
+# reset 89869
+# reset 89931
+# reset 89993
+# reset 90055
+# reset 90117
+# reset 90179
+# reset 90241
+# reset 90303
+# reset 90365
+# reset 90427
+# reset 90489
+# reset 90551
+# reset 90613
+# reset 90675
+# reset 90737
+# reset 90799
+# reset 90861
+# reset 90923
+# reset 90985
+# reset 91047
+# reset 91109
+# reset 91171
+# reset 91233
+# reset 91295
+# reset 91357
+# reset 91419
+# reset 91481
+# reset 91543
+# reset 91605
+# reset 91667
+# reset 91729
+# reset 91791
+# reset 91853
+# reset 91915
+# reset 91977
+# reset 92039
+# reset 92101
+# reset 92163
+# reset 92225
+# reset 92287
+# reset 92349
+# reset 92411
+# reset 92473
+# reset 92535
+# reset 92597
+# reset 92659
+# reset 92721
+# reset 92783
+# reset 92845
+# reset 92907
+# reset 92969
+# reset 93031
+# reset 93093
+# reset 93155
+# reset 93217
+# reset 93279
+# reset 93341
+# reset 93403
+# reset 93465
+# reset 93527
+# reset 93589
+# reset 93651
+# reset 93713
+# reset 93775
+# reset 93837
+# reset 93899
+# reset 93961
+# reset 94023
+# reset 94085
+# reset 94147
+# reset 94209
+# reset 94271
+# reset 94333
+# reset 94395
+# reset 94457
+# reset 94519
+# reset 94581
+# reset 94643
+# reset 94705
+# reset 94767
+# reset 94829
+# reset 94891
+# reset 94953
+# reset 95015
+# reset 95077
+# reset 95139
+# reset 95201
+# reset 95263
+# reset 95325
+# reset 95387
+# reset 95449
+# reset 95511
+# reset 95573
+# reset 95635
+# reset 95697
+# reset 95759
+# reset 95821
+# reset 95883
+# reset 95945
+# reset 96007
+# reset 96069
+# reset 96131
+# reset 96193
+# reset 96255
+# reset 96317
+# reset 96379
+# reset 96441
+# reset 96503
+# reset 96565
+# reset 96627
+# reset 96689
+# reset 96751
+# reset 96813
+# reset 96875
+# reset 96937
+# reset 96999
+# reset 97061
+# reset 97123
+# reset 97185
+# reset 97247
+# reset 97309
+# reset 97371
+# reset 97433
+# reset 97495
+# reset 97557
+# reset 97619
+# reset 97681
+# reset 97743
+# reset 97805
+# reset 97867
+# reset 97929
+# reset 97991
+# reset 98053
+# reset 98115
+# reset 98177
+# reset 98239
+# reset 98301
+# reset 98363
+# reset 98425
+# reset 98487
+# reset 98549
+# reset 98611
+# reset 98673
+# reset 98735
+# reset 98797
+# reset 98859
+# reset 98921
+# reset 98983
+# reset 99045
+# reset 99107
+# reset 99169
+# reset 99231
+# reset 99293
+# reset 99355
+# reset 99417
+# reset 99479
+# reset 99541
+# reset 99603
+# reset 99665
+# reset 99727
+# reset 99789
+# reset 99851
+# reset 99913
+# reset 99975
+# reset 100037
+# reset 100099
+# reset 100161
+# reset 100223
+# reset 100285
+# reset 100347
+# reset 100409
+# reset 100471
+# reset 100533
+# reset 100595
+# reset 100657
+# reset 100719
+# reset 100781
+# reset 100843
+# reset 100905
+# reset 100967
+# reset 101029
+# reset 101091
+# reset 101153
+# reset 101215
+# reset 101277
+# reset 101339
+# reset 101401
+# reset 101463
+# reset 101525
+# reset 101587
+# reset 101649
+# reset 101711
+# reset 101773
+# reset 101835
+# reset 101897
+# reset 101959
+# reset 102021
+# reset 102083
+# reset 102145
+# reset 102207
+# reset 102269
+# reset 102331
+# reset 102393
+# reset 102455
+# reset 102517
+# reset 102579
+# reset 102641
+# reset 102703
+# reset 102765
+# reset 102827
+# reset 102889
+# reset 102951
+# reset 103013
+# reset 103075
+# reset 103137
+# reset 103199
+# reset 103261
+# reset 103323
+# reset 103385
+# reset 103447
+# reset 103509
+# reset 103571
+# reset 103633
+# reset 103695
+# reset 103757
+# reset 103819
+# reset 103881
+# reset 103943
+# reset 104005
+# reset 104067
+# reset 104129
+# reset 104191
+# reset 104253
+# reset 104315
+# reset 104377
+# reset 104439
+# reset 104501
+# reset 104563
+# reset 104625
+# reset 104687
+# reset 104749
+# reset 104811
+# reset 104873
+# reset 104935
+# reset 104997
+# reset 105059
+# reset 105121
+# reset 105183
+# reset 105245
+# reset 105307
+# reset 105369
+# reset 105431
+# reset 105493
+# reset 105555
+# reset 105617
+# reset 105679
+# reset 105741
+# reset 105803
+# reset 105865
+# reset 105927
+# reset 105989
+# reset 106051
+# reset 106113
+# reset 106175
+# reset 106237
+# reset 106299
+# reset 106361
+# reset 106423
+# reset 106485
+# reset 106547
+# reset 106609
+# reset 106671
+# reset 106733
+# reset 106795
+# reset 106857
+# reset 106919
+# reset 106981
+# reset 107043
+# reset 107105
+# reset 107167
+# reset 107229
+# reset 107291
+# reset 107353
+# reset 107415
+# reset 107477
+# reset 107539
+# reset 107601
+# reset 107663
+# reset 107725
+# reset 107787
+# reset 107849
+# reset 107911
+# reset 107973
+# reset 108035
+# reset 108097
+# reset 108159
+# reset 108221
+# reset 108283
+# reset 108345
+# reset 108407
+# reset 108469
+# reset 108531
+# reset 108593
+# reset 108655
+# reset 108717
+# reset 108779
+# reset 108841
+# reset 108903
+# reset 108965
+# reset 109027
+# reset 109089
+# reset 109151
+# reset 109213
+# reset 109275
+# reset 109337
+# reset 109399
+# reset 109461
+# reset 109523
+# reset 109585
+# reset 109647
+# reset 109709
+# reset 109771
+# reset 109833
+# transmitted 1 111073
+# transmitted 0 112313
+# transmitted 1 113553
+# transmitted 0 114793
+# transmitted 1 116033
+# transmitted 0 117273
+# transmitted 1 118513
+# transmitted 0 119753
+# transmitted 1 120993
+# transmitted 0 122233
+# transmitted 1 123473
+# transmitted 0 124713
+# transmitted 1 125953
+# transmitted 0 127193
+# transmitted 1 128433
+# transmitted 0 129673
+# transmitted 1 130913
+# transmitted 0 132153
+# transmitted 1 133393
+# transmitted 0 134633
+# transmitted 1 135873
+# transmitted 0 137113
+# transmitted 1 138353
+# transmitted 0 139593
+# reset pixel pointer 139655
+# transmitted 1 140833
+# transmitted 0 142073
+# transmitted 1 143313
+# transmitted 0 144553
+# transmitted 1 145793
+# transmitted 0 147033
+# transmitted 1 148273
+# transmitted 0 149513
+# transmitted 1 150753
+# transmitted 0 151993
+# transmitted 1 153233
+# transmitted 0 154473
+# transmitted 1 155713
+# transmitted 0 156953
+# transmitted 1 158193
+# transmitted 0 159433
+# transmitted 1 160673
+# transmitted 0 161913
+# transmitted 1 163153
+# transmitted 0 164393
+# transmitted 1 165633
+# transmitted 0 166873
+# transmitted 1 168113
+# transmitted 0 169353
+# reset pixel pointer 169415
+# reset 169477
+# reset 169539
+# reset 169601
+# reset 169663
+# reset 169725
+# reset 169787
+# reset 169849
+# reset 169911
+# reset 169973
+# reset 170035
+# reset 170097
+# reset 170159
+# reset 170221
+# reset 170283
+# reset 170345
+# reset 170407
+# reset 170469
+# reset 170531
+# reset 170593
+# reset 170655
+# reset 170717
+# reset 170779
+# reset 170841
+# reset 170903
+# reset 170965
+# reset 171027
+# reset 171089
+# reset 171151
+# reset 171213
+# reset 171275
+# reset 171337
+# reset 171399
+# reset 171461
+# reset 171523
+# reset 171585
+# reset 171647
+# reset 171709
+# reset 171771
+# reset 171833
+# reset 171895
+# reset 171957
+# reset 172019
+# reset 172081
+# reset 172143
+# reset 172205
+# reset 172267
+# reset 172329
+# reset 172391
+# reset 172453
+# reset 172515
+# reset 172577
+# reset 172639
+# reset 172701
+# reset 172763
+# reset 172825
+# reset 172887
+# reset 172949
+# reset 173011
+# reset 173073
+# reset 173135
+# reset 173197
+# reset 173259
+# reset 173321
+# reset 173383
+# reset 173445
+# reset 173507
+# reset 173569
+# reset 173631
+# reset 173693
+# reset 173755
+# reset 173817
+# reset 173879
+# reset 173941
+# reset 174003
+# reset 174065
+# reset 174127
+# reset 174189
+# reset 174251
+# reset 174313
+# reset 174375
+# reset 174437
+# reset 174499
+# reset 174561
+# reset 174623
+# reset 174685
+# reset 174747
+# reset 174809
+# reset 174871
+# reset 174933
+# reset 174995
+# reset 175057
+# reset 175119
+# reset 175181
+# reset 175243
+# reset 175305
+# reset 175367
+# reset 175429
+# reset 175491
+# reset 175553
+# reset 175615
+# reset 175677
+# reset 175739
+# reset 175801
+# reset 175863
+# reset 175925
+# reset 175987
+# reset 176049
+# reset 176111
+# reset 176173
+# reset 176235
+# reset 176297
+# reset 176359
+# reset 176421
+# reset 176483
+# reset 176545
+# reset 176607
+# reset 176669
+# reset 176731
+# reset 176793
+# reset 176855
+# reset 176917
+# reset 176979
+# reset 177041
+# reset 177103
+# reset 177165
+# reset 177227
+# reset 177289
+# reset 177351
+# reset 177413
+# reset 177475
+# reset 177537
+# reset 177599
+# reset 177661
+# reset 177723
+# reset 177785
+# reset 177847
+# reset 177909
+# reset 177971
+# reset 178033
+# reset 178095
+# reset 178157
+# reset 178219
+# reset 178281
+# reset 178343
+# reset 178405
+# reset 178467
+# reset 178529
+# reset 178591
+# reset 178653
+# reset 178715
+# reset 178777
+# Compile of ws2812b_controller.v was successful.
+# Compile of pixel TB.sv was successful.
+# 2 compiles, 0 failed with no errors.
+restart -f
+# Closing VCD file "waves.vcd"
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.neopixel_TB
+# Loading work.NEOPIX
+run
+# GetModuleFileName: The specified module could not be found.
+# 
+# 
+# transmitted 1 1209
+# bit pointer increment 1209
+# transmitted 0 2449
+# bit pointer increment 2449
+# transmitted 1 3689
+# bit pointer increment 3689
+# transmitted 0 4929
+# bit pointer increment 4929
+# transmitted 1 6169
+# bit pointer increment 6169
+# transmitted 0 7409
+# bit pointer increment 7409
+# transmitted 1 8649
+# bit pointer increment 8649
+# transmitted 0 9889
+# bit pointer increment 9889
+# transmitted 1 11129
+# bit pointer increment 11129
+# transmitted 0 12369
+# bit pointer increment 12369
+# transmitted 1 13609
+# bit pointer increment 13609
+# transmitted 0 14849
+# bit pointer increment 14849
+# transmitted 1 16089
+# bit pointer increment 16089
+# transmitted 0 17329
+# bit pointer increment 17329
+# transmitted 1 18569
+# bit pointer increment 18569
+# transmitted 0 19809
+# bit pointer increment 19809
+# transmitted 1 21049
+# bit pointer increment 21049
+# transmitted 0 22289
+# bit pointer increment 22289
+# transmitted 1 23529
+# bit pointer increment 23529
+# transmitted 0 24769
+# bit pointer increment 24769
+# transmitted 1 26009
+# bit pointer increment 26009
+# transmitted 0 27249
+# bit pointer increment 27249
+# transmitted 1 28489
+# bit pointer increment 28489
+# transmitted 0 29729
+# pixel pointer increment 29729
+# transmitted 1 30969
+# bit pointer increment 30969
+# transmitted 0 32209
+# bit pointer increment 32209
+# transmitted 1 33449
+# bit pointer increment 33449
+# transmitted 0 34689
+# bit pointer increment 34689
+# transmitted 1 35929
+# bit pointer increment 35929
+# transmitted 0 37169
+# bit pointer increment 37169
+# transmitted 1 38409
+# bit pointer increment 38409
+# transmitted 0 39649
+# bit pointer increment 39649
+# transmitted 1 40889
+# bit pointer increment 40889
+# transmitted 0 42129
+# bit pointer increment 42129
+# transmitted 1 43369
+# bit pointer increment 43369
+# transmitted 0 44609
+# bit pointer increment 44609
+# transmitted 1 45849
+# bit pointer increment 45849
+# transmitted 0 47089
+# bit pointer increment 47089
+# transmitted 1 48329
+# bit pointer increment 48329
+# transmitted 0 49569
+# bit pointer increment 49569
+# transmitted 1 50809
+# bit pointer increment 50809
+# transmitted 0 52049
+# bit pointer increment 52049
+# transmitted 1 53289
+# bit pointer increment 53289
+# transmitted 0 54529
+# bit pointer increment 54529
+# transmitted 1 55769
+# bit pointer increment 55769
+# transmitted 0 57009
+# bit pointer increment 57009
+# transmitted 1 58249
+# bit pointer increment 58249
+# transmitted 0 59489
+# pixel pointer increment 59489
+# reset 59551
+# reset 59613
+# reset 59675
+# reset 59737
+# reset 59799
+# reset 59861
+# reset 59923
+# reset 59985
+# reset 60047
+# reset 60109
+# reset 60171
+# reset 60233
+# reset 60295
+# reset 60357
+# reset 60419
+# reset 60481
+# reset 60543
+# reset 60605
+# reset 60667
+# reset 60729
+# reset 60791
+# reset 60853
+# reset 60915
+# reset 60977
+# reset 61039
+# reset 61101
+# reset 61163
+# reset 61225
+# reset 61287
+# reset 61349
+# reset 61411
+# reset 61473
+# reset 61535
+# reset 61597
+# reset 61659
+# reset 61721
+# reset 61783
+# reset 61845
+# reset 61907
+# reset 61969
+# reset 62031
+# reset 62093
+# reset 62155
+# reset 62217
+# reset 62279
+# reset 62341
+# reset 62403
+# reset 62465
+# reset 62527
+# reset 62589
+# reset 62651
+# reset 62713
+# reset 62775
+# reset 62837
+# reset 62899
+# reset 62961
+# reset 63023
+# reset 63085
+# reset 63147
+# reset 63209
+# reset 63271
+# reset 63333
+# reset 63395
+# reset 63457
+# reset 63519
+# reset 63581
+# reset 63643
+# reset 63705
+# reset 63767
+# reset 63829
+# reset 63891
+# reset 63953
+# reset 64015
+# reset 64077
+# reset 64139
+# reset 64201
+# reset 64263
+# reset 64325
+# reset 64387
+# reset 64449
+# reset 64511
+# reset 64573
+# reset 64635
+# reset 64697
+# reset 64759
+# reset 64821
+# reset 64883
+# reset 64945
+# reset 65007
+# reset 65069
+# reset 65131
+# reset 65193
+# reset 65255
+# reset 65317
+# reset 65379
+# reset 65441
+# reset 65503
+# reset 65565
+# reset 65627
+# reset 65689
+# reset 65751
+# reset 65813
+# reset 65875
+# reset 65937
+# reset 65999
+# reset 66061
+# reset 66123
+# reset 66185
+# reset 66247
+# reset 66309
+# reset 66371
+# reset 66433
+# reset 66495
+# reset 66557
+# reset 66619
+# reset 66681
+# reset 66743
+# reset 66805
+# reset 66867
+# reset 66929
+# reset 66991
+# reset 67053
+# reset 67115
+# reset 67177
+# reset 67239
+# reset 67301
+# reset 67363
+# reset 67425
+# reset 67487
+# reset 67549
+# reset 67611
+# reset 67673
+# reset 67735
+# reset 67797
+# reset 67859
+# reset 67921
+# reset 67983
+# reset 68045
+# reset 68107
+# reset 68169
+# reset 68231
+# reset 68293
+# reset 68355
+# reset 68417
+# reset 68479
+# reset 68541
+# reset 68603
+# reset 68665
+# reset 68727
+# reset 68789
+# reset 68851
+# reset 68913
+# reset 68975
+# reset 69037
+# reset 69099
+# reset 69161
+# reset 69223
+# reset 69285
+# reset 69347
+# reset 69409
+# reset 69471
+# reset 69533
+# reset 69595
+# reset 69657
+# reset 69719
+# reset 69781
+# reset 69843
+# reset 69905
+# reset 69967
+# reset 70029
+# reset 70091
+# reset 70153
+# reset 70215
+# reset 70277
+# reset 70339
+# reset 70401
+# reset 70463
+# reset 70525
+# reset 70587
+# reset 70649
+# reset 70711
+# reset 70773
+# reset 70835
+# reset 70897
+# reset 70959
+# reset 71021
+# reset 71083
+# reset 71145
+# reset 71207
+# reset 71269
+# reset 71331
+# reset 71393
+# reset 71455
+# reset 71517
+# reset 71579
+# reset 71641
+# reset 71703
+# reset 71765
+# reset 71827
+# reset 71889
+# reset 71951
+# reset 72013
+# reset 72075
+# reset 72137
+# reset 72199
+# reset 72261
+# reset 72323
+# reset 72385
+# reset 72447
+# reset 72509
+# reset 72571
+# reset 72633
+# reset 72695
+# reset 72757
+# reset 72819
+# reset 72881
+# reset 72943
+# reset 73005
+# reset 73067
+# reset 73129
+# reset 73191
+# reset 73253
+# reset 73315
+# reset 73377
+# reset 73439
+# reset 73501
+# reset 73563
+# reset 73625
+# reset 73687
+# reset 73749
+# reset 73811
+# reset 73873
+# reset 73935
+# reset 73997
+# reset 74059
+# reset 74121
+# reset 74183
+# reset 74245
+# reset 74307
+# reset 74369
+# reset 74431
+# reset 74493
+# reset 74555
+# reset 74617
+# reset 74679
+# reset 74741
+# reset 74803
+# reset 74865
+# reset 74927
+# reset 74989
+# reset 75051
+# reset 75113
+# reset 75175
+# reset 75237
+# reset 75299
+# reset 75361
+# reset 75423
+# reset 75485
+# reset 75547
+# reset 75609
+# reset 75671
+# reset 75733
+# reset 75795
+# reset 75857
+# reset 75919
+# reset 75981
+# reset 76043
+# reset 76105
+# reset 76167
+# reset 76229
+# reset 76291
+# reset 76353
+# reset 76415
+# reset 76477
+# reset 76539
+# reset 76601
+# reset 76663
+# reset 76725
+# reset 76787
+# reset 76849
+# reset 76911
+# reset 76973
+# reset 77035
+# reset 77097
+# reset 77159
+# reset 77221
+# reset 77283
+# reset 77345
+# reset 77407
+# reset 77469
+# reset 77531
+# reset 77593
+# reset 77655
+# reset 77717
+# reset 77779
+# reset 77841
+# reset 77903
+# reset 77965
+# reset 78027
+# reset 78089
+# reset 78151
+# reset 78213
+# reset 78275
+# reset 78337
+# reset 78399
+# reset 78461
+# reset 78523
+# reset 78585
+# reset 78647
+# reset 78709
+# reset 78771
+# reset 78833
+# reset 78895
+# reset 78957
+# reset 79019
+# reset 79081
+# reset 79143
+# reset 79205
+# reset 79267
+# reset 79329
+# reset 79391
+# reset 79453
+# reset 79515
+# reset 79577
+# reset 79639
+# reset 79701
+# reset 79763
+# reset 79825
+# reset 79887
+# reset 79949
+# reset 80011
+# reset 80073
+# reset 80135
+# reset 80197
+# reset 80259
+# reset 80321
+# reset 80383
+# reset 80445
+# reset 80507
+# reset 80569
+# reset 80631
+# reset 80693
+# reset 80755
+# reset 80817
+# reset 80879
+# reset 80941
+# reset 81003
+# reset 81065
+# reset 81127
+# reset 81189
+# reset 81251
+# reset 81313
+# reset 81375
+# reset 81437
+# reset 81499
+# reset 81561
+# reset 81623
+# reset 81685
+# reset 81747
+# reset 81809
+# reset 81871
+# reset 81933
+# reset 81995
+# reset 82057
+# reset 82119
+# reset 82181
+# reset 82243
+# reset 82305
+# reset 82367
+# reset 82429
+# reset 82491
+# reset 82553
+# reset 82615
+# reset 82677
+# reset 82739
+# reset 82801
+# reset 82863
+# reset 82925
+# reset 82987
+# reset 83049
+# reset 83111
+# reset 83173
+# reset 83235
+# reset 83297
+# reset 83359
+# reset 83421
+# reset 83483
+# reset 83545
+# reset 83607
+# reset 83669
+# reset 83731
+# reset 83793
+# reset 83855
+# reset 83917
+# reset 83979
+# reset 84041
+# reset 84103
+# reset 84165
+# reset 84227
+# reset 84289
+# reset 84351
+# reset 84413
+# reset 84475
+# reset 84537
+# reset 84599
+# reset 84661
+# reset 84723
+# reset 84785
+# reset 84847
+# reset 84909
+# reset 84971
+# reset 85033
+# reset 85095
+# reset 85157
+# reset 85219
+# reset 85281
+# reset 85343
+# reset 85405
+# reset 85467
+# reset 85529
+# reset 85591
+# reset 85653
+# reset 85715
+# reset 85777
+# reset 85839
+# reset 85901
+# reset 85963
+# reset 86025
+# reset 86087
+# reset 86149
+# reset 86211
+# reset 86273
+# reset 86335
+# reset 86397
+# reset 86459
+# reset 86521
+# reset 86583
+# reset 86645
+# reset 86707
+# reset 86769
+# reset 86831
+# reset 86893
+# reset 86955
+# reset 87017
+# reset 87079
+# reset 87141
+# reset 87203
+# reset 87265
+# reset 87327
+# reset 87389
+# reset 87451
+# reset 87513
+# reset 87575
+# reset 87637
+# reset 87699
+# reset 87761
+# reset 87823
+# reset 87885
+# reset 87947
+# reset 88009
+# reset 88071
+# reset 88133
+# reset 88195
+# reset 88257
+# reset 88319
+# reset 88381
+# reset 88443
+# reset 88505
+# reset 88567
+# reset 88629
+# reset 88691
+# reset 88753
+# reset 88815
+# reset 88877
+# reset 88939
+# reset 89001
+# reset 89063
+# reset 89125
+# reset 89187
+# reset 89249
+# reset 89311
+# reset 89373
