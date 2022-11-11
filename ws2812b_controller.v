@@ -27,7 +27,6 @@ initial begin
 end
 
 
-//T0P and T1P are equal now, but they might not be on all systems
 //T0 period
 localparam T0_period = T0H + T0L;
 //T1 period
@@ -42,10 +41,6 @@ this always block drives:
 	pixel_pointer
 */
 always @ (posedge clk) begin
-
-
-//$display("bit_pointer: %d, timer: %d, data: %d", bit_pointer, timer, PIX_DAT[pointer]);
-
 
 
 
@@ -159,19 +154,15 @@ T0L			0.85 [us]		850		[ns]		12	->	15				14						+-150 [ns]
 T1L			0.45 [us]		450		[ns]		5	->	9				7						+-150 [ns]
 RES			t>50 [us]		50_000	[ns]		800						810
 
+
+note:
+	810 clock cycles was not a long enough reset time. 850 was the minimum I tested.
+
 note: 50_000 / 62.5 = 800
 	must be LONGER than 50_000 ns
 
 16Mhz clock is
 62.5ns
-
-
-conclusion:
-	T0H and T1L can be the same
-	T1H and T0L can be the same
-
-	T0H = T1L =  6 * 62.5 [ns] = 375   [ns]
-	T1H = T0L = 13 * 62.5 [ns] = 812.5 [ns]
 
 
 */
