@@ -1,6 +1,3 @@
-
-
-
 module NEOPIX
 #(parameter num_pixels = 3,
 T0H = 6,
@@ -139,13 +136,10 @@ endmodule
 /*
 0 code:
 /T0H\_T0L_
-
 1 code:
 /T1H\_T1L_
-
 RET code
 _Treset_
-
 name		timing [us]		timing	[ns]		# of clock pulse		ideal choice			error
 				
 T0H			0.4  [us]		400		[ns]		5	->	8				6						+-150 [ns]
@@ -153,18 +147,12 @@ T1H			0.8  [us]		800		[ns]		11	->	15				13						+-150 [ns]
 T0L			0.85 [us]		850		[ns]		12	->	15				14						+-150 [ns]
 T1L			0.45 [us]		450		[ns]		5	->	9				7						+-150 [ns]
 RES			t>50 [us]		50_000	[ns]		800						810
-
-
 note:
 	810 clock cycles was not a long enough reset time. 850 was the minimum I tested.
-
 note: 50_000 / 62.5 = 800
 	must be LONGER than 50_000 ns
-
 16Mhz clock is
 62.5ns
-
-
 */
 
 //4   time ticks for 0.4us
