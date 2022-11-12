@@ -15,20 +15,20 @@ module top (
 
 
   
-    reg [23:0] counter;
-    initial counter = 24'd0;
-
-
-	assign LED = state;
-
-	always @ (posedge CLK) begin
-	counter = counter + 1;
-		if(counter >= 16_000_000) begin
-			counter = 24'b0;
-			state = ~state;
-		end
-		
-	end
+    //reg [23:0] counter;
+    //initial counter = 24'd0;
+	//
+	//
+	////assign LED = state;
+	//
+	//always @ (posedge CLK) begin
+	//counter = counter + 1;
+	//	if(counter >= 16_000_000) begin
+	//		counter = 24'b0;
+	//		//state = ~state;
+	//	end
+	//	
+	//end
     
 
 
@@ -37,11 +37,10 @@ module top (
 		I am unsure if I should send it one pixels worth of data at a time,
 		or if I should send it a buffer for all pixels in the strip
 	*/
-	reg [71:0] data;
-	initial data = {
-			8'd0, 8'd64, 8'd64, 
-			8'd64, 8'd64, 8'd0,
-			8'd64, 8'd0, 8'd64};
+	reg [23:0] data;
+	initial data = {8'd0, 8'd64, 8'd64};
+			//8'd64, 8'd64, 8'd0,
+			//8'd64, 8'd0, 8'd64};
 
 	//NEOPIX neo(CLK, {G, R, B}, PIN_18);
 	NEOPIX neo(CLK, data, PIN_18);
