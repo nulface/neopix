@@ -32,14 +32,6 @@ end
 localparam period = T0H + T0L;
 
 
-/*
-this always block drives:
-	timer,
-	bit_pointer,
-	out,
-	pixel_pointer
-*/
-
 wire pixd;
 assign pixd = pixel_data[pixel_pointer * 24 + 23 - bit_pointer];
 
@@ -49,8 +41,10 @@ always @ (posedge clk) begin
 if(pixel_pointer < num_pixels) begin
 
 	
-	if( pixd )  	out 				<= (timer < T1H) ? 1 : 0;		//transmit 1
-	else 			out 				<= (timer < T0H) ? 1 : 0;		//transmit 0
+	if( pixd ) 
+		out 							<= (timer < T1H) ? 1 : 0;		//transmit 1
+	else 			
+		out 							<= (timer < T0H) ? 1 : 0;		//transmit 0
 
 
 	if(timer == period - 1) begin
